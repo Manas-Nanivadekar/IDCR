@@ -1,0 +1,6 @@
+# Experiment 2: Greedy approximation quality
+name: greedy_vs_optimal
+n_users: 30
+k_values: [3, 4, 5, 6]
+n_random_samples: 10000
+seed: 42

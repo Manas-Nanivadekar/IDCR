@@ -1,0 +1,10 @@
+# Synthetic data generation configuration
+n_train: 1000
+n_calibration: 200
+n_test: 200
+n_documents: 200
+seed: 42
+
+# Corpus variants
+corpus_type: mixed  # one of: redundant, synergistic, mixed
+synergy_strength: 0.5

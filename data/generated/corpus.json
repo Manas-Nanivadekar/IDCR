@@ -1,0 +1,3238 @@
+[
+  {
+    "doc_id": 0,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity",
+      "emerging_markets",
+      "intl_equity"
+    ],
+    "informativeness": 1.8372,
+    "time_horizon": "medium_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "revenue_growth_pct": -7.8,
+      "pe_ratio": 19.9,
+      "eps_surprise_pct": 3.89
+    }
+  },
+  {
+    "doc_id": 1,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "cash",
+      "bonds",
+      "commodities"
+    ],
+    "informativeness": 0.7099,
+    "time_horizon": "short_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "volatility_index": 32.7,
+      "sharpe_ratio": 0.66,
+      "max_drawdown_pct": 29.3
+    }
+  },
+  {
+    "doc_id": 2,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "commodities",
+      "cash",
+      "emerging_markets"
+    ],
+    "informativeness": 2.1844,
+    "time_horizon": "medium_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "volatility_index": 32.3,
+      "sharpe_ratio": 0.8,
+      "max_drawdown_pct": 13.1
+    }
+  },
+  {
+    "doc_id": 3,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "alternatives",
+      "commodities",
+      "bonds",
+      "cash"
+    ],
+    "informativeness": 0.8128,
+    "time_horizon": "short_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "volatility_index": 35.0,
+      "sharpe_ratio": 0.41,
+      "max_drawdown_pct": 12.8
+    }
+  },
+  {
+    "doc_id": 4,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "intl_equity",
+      "US_equity"
+    ],
+    "informativeness": 1.9652,
+    "time_horizon": "long_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "revenue_growth_pct": 15.18,
+      "pe_ratio": 8.2,
+      "eps_surprise_pct": 1.45
+    }
+  },
+  {
+    "doc_id": 5,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "intl_equity",
+      "US_equity",
+      "emerging_markets"
+    ],
+    "informativeness": 0.9705,
+    "time_horizon": "long_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "revenue_growth_pct": -7.99,
+      "pe_ratio": 23.1,
+      "eps_surprise_pct": -8.41
+    }
+  },
+  {
+    "doc_id": 6,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "emerging_markets"
+    ],
+    "informativeness": 2.5438,
+    "time_horizon": "long_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "revenue_growth_pct": -0.23,
+      "pe_ratio": 22.0,
+      "eps_surprise_pct": 4.29
+    }
+  },
+  {
+    "doc_id": 7,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "US_equity",
+      "commodities",
+      "emerging_markets"
+    ],
+    "informativeness": 2.3944,
+    "time_horizon": "medium_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "gdp_growth_pct": 1.36,
+      "inflation_pct": 6.38,
+      "interest_rate_pct": 3.99
+    }
+  },
+  {
+    "doc_id": 8,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "US_equity",
+      "cash"
+    ],
+    "informativeness": 1.2405,
+    "time_horizon": "long_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "revenue_growth_pct": 12.3,
+      "pe_ratio": 13.2,
+      "eps_surprise_pct": 0.06
+    }
+  },
+  {
+    "doc_id": 9,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "bonds"
+    ],
+    "informativeness": 1.5427,
+    "time_horizon": "long_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "target_return_pct": -0.44,
+      "confidence_score": 0.35
+    }
+  },
+  {
+    "doc_id": 10,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "bonds",
+      "alternatives"
+    ],
+    "informativeness": 0.7497,
+    "time_horizon": "long_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "volatility_index": 33.4,
+      "sharpe_ratio": 1.37,
+      "max_drawdown_pct": 16.2
+    }
+  },
+  {
+    "doc_id": 11,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "cash",
+      "bonds"
+    ],
+    "informativeness": 0.2834,
+    "time_horizon": "long_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "volatility_index": 15.3,
+      "sharpe_ratio": 0.28,
+      "max_drawdown_pct": 24.0
+    }
+  },
+  {
+    "doc_id": 12,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "intl_equity"
+    ],
+    "informativeness": 1.695,
+    "time_horizon": "short_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "revenue_growth_pct": -10.35,
+      "pe_ratio": 21.3,
+      "eps_surprise_pct": 1.1
+    }
+  },
+  {
+    "doc_id": 13,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity",
+      "emerging_markets",
+      "intl_equity"
+    ],
+    "informativeness": 0.5548,
+    "time_horizon": "short_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "revenue_growth_pct": -0.85,
+      "pe_ratio": 19.1,
+      "eps_surprise_pct": 3.18
+    }
+  },
+  {
+    "doc_id": 14,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "bonds"
+    ],
+    "informativeness": 2.1051,
+    "time_horizon": "long_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "gdp_growth_pct": 6.37,
+      "inflation_pct": 7.53,
+      "interest_rate_pct": 3.43
+    }
+  },
+  {
+    "doc_id": 15,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "US_equity",
+      "intl_equity"
+    ],
+    "informativeness": 1.1859,
+    "time_horizon": "short_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "revenue_growth_pct": 20.99,
+      "pe_ratio": 36.7,
+      "eps_surprise_pct": -0.79
+    }
+  },
+  {
+    "doc_id": 16,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "intl_equity",
+      "commodities"
+    ],
+    "informativeness": 1.5982,
+    "time_horizon": "long_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "revenue_growth_pct": 19.74,
+      "pe_ratio": 37.3,
+      "eps_surprise_pct": -5.92
+    }
+  },
+  {
+    "doc_id": 17,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "bonds"
+    ],
+    "informativeness": 6.2013,
+    "time_horizon": "medium_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "volatility_index": 19.5,
+      "sharpe_ratio": 1.47,
+      "max_drawdown_pct": 12.3
+    }
+  },
+  {
+    "doc_id": 18,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "bonds",
+      "alternatives",
+      "cash",
+      "US_equity"
+    ],
+    "informativeness": 1.8996,
+    "time_horizon": "long_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "volatility_index": 36.8,
+      "sharpe_ratio": 1.14,
+      "max_drawdown_pct": 12.9
+    }
+  },
+  {
+    "doc_id": 19,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "emerging_markets",
+      "US_equity",
+      "intl_equity",
+      "cash"
+    ],
+    "informativeness": 1.9146,
+    "time_horizon": "long_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "revenue_growth_pct": 29.76,
+      "pe_ratio": 34.6,
+      "eps_surprise_pct": -0.9
+    }
+  },
+  {
+    "doc_id": 20,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "bonds",
+      "cash",
+      "commodities",
+      "intl_equity"
+    ],
+    "informativeness": 2.6428,
+    "time_horizon": "short_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "gdp_growth_pct": 1.75,
+      "inflation_pct": 0.6,
+      "interest_rate_pct": 1.38
+    }
+  },
+  {
+    "doc_id": 21,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "US_equity"
+    ],
+    "informativeness": 0.1738,
+    "time_horizon": "long_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "revenue_growth_pct": -13.28,
+      "pe_ratio": 14.4,
+      "eps_surprise_pct": -1.67
+    }
+  },
+  {
+    "doc_id": 22,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "intl_equity",
+      "US_equity",
+      "emerging_markets",
+      "commodities"
+    ],
+    "informativeness": 1.1165,
+    "time_horizon": "long_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "revenue_growth_pct": 13.07,
+      "pe_ratio": 38.6,
+      "eps_surprise_pct": -0.77
+    }
+  },
+  {
+    "doc_id": 23,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "intl_equity",
+      "US_equity"
+    ],
+    "informativeness": 1.9052,
+    "time_horizon": "short_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "revenue_growth_pct": 8.42,
+      "pe_ratio": 38.9,
+      "eps_surprise_pct": 9.38
+    }
+  },
+  {
+    "doc_id": 24,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "emerging_markets"
+    ],
+    "informativeness": 0.4013,
+    "time_horizon": "long_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "revenue_growth_pct": 23.09,
+      "pe_ratio": 34.5,
+      "eps_surprise_pct": -3.27
+    }
+  },
+  {
+    "doc_id": 25,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "US_equity"
+    ],
+    "informativeness": 1.0723,
+    "time_horizon": "medium_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "revenue_growth_pct": 3.59,
+      "pe_ratio": 35.8,
+      "eps_surprise_pct": -7.34
+    }
+  },
+  {
+    "doc_id": 26,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "intl_equity",
+      "US_equity"
+    ],
+    "informativeness": 5.3407,
+    "time_horizon": "short_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "revenue_growth_pct": -0.52,
+      "pe_ratio": 12.7,
+      "eps_surprise_pct": 8.64
+    }
+  },
+  {
+    "doc_id": 27,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity",
+      "alternatives"
+    ],
+    "informativeness": 2.2933,
+    "time_horizon": "long_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "revenue_growth_pct": -15.62,
+      "pe_ratio": 8.7,
+      "eps_surprise_pct": -1.33
+    }
+  },
+  {
+    "doc_id": 28,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity",
+      "real_estate"
+    ],
+    "informativeness": 3.3457,
+    "time_horizon": "medium_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "revenue_growth_pct": 5.8,
+      "pe_ratio": 36.0,
+      "eps_surprise_pct": -3.61
+    }
+  },
+  {
+    "doc_id": 29,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "cash",
+      "bonds",
+      "US_equity"
+    ],
+    "informativeness": 4.6347,
+    "time_horizon": "short_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "gdp_growth_pct": 0.33,
+      "inflation_pct": 6.75,
+      "interest_rate_pct": 0.31
+    }
+  },
+  {
+    "doc_id": 30,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "intl_equity",
+      "US_equity"
+    ],
+    "informativeness": 2.3248,
+    "time_horizon": "short_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "revenue_growth_pct": 8.96,
+      "pe_ratio": 28.6,
+      "eps_surprise_pct": -1.46
+    }
+  },
+  {
+    "doc_id": 31,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "cash"
+    ],
+    "informativeness": 4.3795,
+    "time_horizon": "medium_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "volatility_index": 29.2,
+      "sharpe_ratio": 1.15,
+      "max_drawdown_pct": 8.5
+    }
+  },
+  {
+    "doc_id": 32,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "bonds",
+      "cash"
+    ],
+    "informativeness": 0.3672,
+    "time_horizon": "long_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "gdp_growth_pct": 1.91,
+      "inflation_pct": 5.64,
+      "interest_rate_pct": 1.78
+    }
+  },
+  {
+    "doc_id": 33,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "cash",
+      "bonds",
+      "commodities",
+      "alternatives"
+    ],
+    "informativeness": 5.084,
+    "time_horizon": "short_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "volatility_index": 26.0,
+      "sharpe_ratio": 1.03,
+      "max_drawdown_pct": 12.2
+    }
+  },
+  {
+    "doc_id": 34,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity",
+      "emerging_markets",
+      "intl_equity"
+    ],
+    "informativeness": 1.7592,
+    "time_horizon": "medium_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "revenue_growth_pct": 32.31,
+      "pe_ratio": 10.7,
+      "eps_surprise_pct": -7.86
+    }
+  },
+  {
+    "doc_id": 35,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "cash"
+    ],
+    "informativeness": 4.4779,
+    "time_horizon": "long_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "volatility_index": 38.4,
+      "sharpe_ratio": 1.02,
+      "max_drawdown_pct": 19.8
+    }
+  },
+  {
+    "doc_id": 36,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "bonds"
+    ],
+    "informativeness": 0.9584,
+    "time_horizon": "short_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "volatility_index": 24.0,
+      "sharpe_ratio": 1.15,
+      "max_drawdown_pct": 24.1
+    }
+  },
+  {
+    "doc_id": 37,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "real_estate",
+      "commodities",
+      "intl_equity",
+      "emerging_markets",
+      "US_equity"
+    ],
+    "informativeness": 4.3905,
+    "time_horizon": "long_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "target_return_pct": 5.15,
+      "confidence_score": 0.7
+    }
+  },
+  {
+    "doc_id": 38,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "commodities",
+      "cash"
+    ],
+    "informativeness": 0.7821,
+    "time_horizon": "long_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "volatility_index": 14.4,
+      "sharpe_ratio": 1.5,
+      "max_drawdown_pct": 15.9
+    }
+  },
+  {
+    "doc_id": 39,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "intl_equity",
+      "US_equity",
+      "emerging_markets"
+    ],
+    "informativeness": 1.9417,
+    "time_horizon": "medium_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "revenue_growth_pct": 24.93,
+      "pe_ratio": 31.0,
+      "eps_surprise_pct": 4.21
+    }
+  },
+  {
+    "doc_id": 40,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "bonds",
+      "cash"
+    ],
+    "informativeness": 0.1874,
+    "time_horizon": "short_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "gdp_growth_pct": 2.16,
+      "inflation_pct": 3.91,
+      "interest_rate_pct": 4.95
+    }
+  },
+  {
+    "doc_id": 41,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "intl_equity"
+    ],
+    "informativeness": 2.3011,
+    "time_horizon": "medium_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "revenue_growth_pct": -16.19,
+      "pe_ratio": 39.9,
+      "eps_surprise_pct": 0.27
+    }
+  },
+  {
+    "doc_id": 42,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "commodities",
+      "cash",
+      "bonds"
+    ],
+    "informativeness": 0.9495,
+    "time_horizon": "medium_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "volatility_index": 36.9,
+      "sharpe_ratio": 1.27,
+      "max_drawdown_pct": 11.0
+    }
+  },
+  {
+    "doc_id": 43,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "intl_equity",
+      "cash"
+    ],
+    "informativeness": 1.2083,
+    "time_horizon": "long_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "revenue_growth_pct": 3.24,
+      "pe_ratio": 9.7,
+      "eps_surprise_pct": -9.97
+    }
+  },
+  {
+    "doc_id": 44,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "emerging_markets",
+      "intl_equity",
+      "cash",
+      "real_estate"
+    ],
+    "informativeness": 1.9353,
+    "time_horizon": "long_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "target_return_pct": 7.65,
+      "confidence_score": 0.37
+    }
+  },
+  {
+    "doc_id": 45,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "bonds",
+      "commodities",
+      "cash"
+    ],
+    "informativeness": 1.011,
+    "time_horizon": "short_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "target_return_pct": 6.21,
+      "confidence_score": 0.73
+    }
+  },
+  {
+    "doc_id": 46,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "US_equity",
+      "intl_equity",
+      "emerging_markets"
+    ],
+    "informativeness": 2.3577,
+    "time_horizon": "medium_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "revenue_growth_pct": 18.92,
+      "pe_ratio": 10.9,
+      "eps_surprise_pct": -2.67
+    }
+  },
+  {
+    "doc_id": 47,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "cash",
+      "commodities"
+    ],
+    "informativeness": 1.4341,
+    "time_horizon": "medium_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "volatility_index": 38.4,
+      "sharpe_ratio": 0.83,
+      "max_drawdown_pct": 19.5
+    }
+  },
+  {
+    "doc_id": 48,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "US_equity",
+      "intl_equity"
+    ],
+    "informativeness": 2.2122,
+    "time_horizon": "long_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "revenue_growth_pct": 34.27,
+      "pe_ratio": 11.8,
+      "eps_surprise_pct": 0.35
+    }
+  },
+  {
+    "doc_id": 49,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "US_equity",
+      "emerging_markets"
+    ],
+    "informativeness": 1.6335,
+    "time_horizon": "medium_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "target_return_pct": 0.05,
+      "confidence_score": 0.65
+    }
+  },
+  {
+    "doc_id": 50,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "US_equity",
+      "intl_equity"
+    ],
+    "informativeness": 5.6271,
+    "time_horizon": "short_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "revenue_growth_pct": 10.22,
+      "pe_ratio": 30.5,
+      "eps_surprise_pct": -1.42
+    }
+  },
+  {
+    "doc_id": 51,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "US_equity",
+      "intl_equity"
+    ],
+    "informativeness": 3.4519,
+    "time_horizon": "short_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "revenue_growth_pct": 43.97,
+      "pe_ratio": 24.4,
+      "eps_surprise_pct": 7.17
+    }
+  },
+  {
+    "doc_id": 52,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "alternatives",
+      "bonds",
+      "cash"
+    ],
+    "informativeness": 0.8493,
+    "time_horizon": "medium_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "volatility_index": 24.8,
+      "sharpe_ratio": 1.31,
+      "max_drawdown_pct": 6.8
+    }
+  },
+  {
+    "doc_id": 53,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "emerging_markets",
+      "real_estate",
+      "US_equity",
+      "cash"
+    ],
+    "informativeness": 0.2441,
+    "time_horizon": "short_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "target_return_pct": 0.52,
+      "confidence_score": 0.52
+    }
+  },
+  {
+    "doc_id": 54,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "intl_equity",
+      "US_equity",
+      "real_estate"
+    ],
+    "informativeness": 1.0589,
+    "time_horizon": "medium_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "target_return_pct": 5.2,
+      "confidence_score": 0.71
+    }
+  },
+  {
+    "doc_id": 55,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity",
+      "intl_equity",
+      "emerging_markets",
+      "cash"
+    ],
+    "informativeness": 2.1524,
+    "time_horizon": "short_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "revenue_growth_pct": 18.47,
+      "pe_ratio": 39.7,
+      "eps_surprise_pct": -4.85
+    }
+  },
+  {
+    "doc_id": 56,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "emerging_markets"
+    ],
+    "informativeness": 1.4316,
+    "time_horizon": "long_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "revenue_growth_pct": 26.83,
+      "pe_ratio": 32.2,
+      "eps_surprise_pct": 1.29
+    }
+  },
+  {
+    "doc_id": 57,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "intl_equity",
+      "emerging_markets"
+    ],
+    "informativeness": 1.1521,
+    "time_horizon": "medium_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "revenue_growth_pct": 14.56,
+      "pe_ratio": 23.7,
+      "eps_surprise_pct": 5.74
+    }
+  },
+  {
+    "doc_id": 58,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "cash",
+      "bonds"
+    ],
+    "informativeness": 2.0073,
+    "time_horizon": "short_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "volatility_index": 32.9,
+      "sharpe_ratio": 1.1,
+      "max_drawdown_pct": 14.2
+    }
+  },
+  {
+    "doc_id": 59,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "alternatives",
+      "commodities",
+      "cash"
+    ],
+    "informativeness": 2.0794,
+    "time_horizon": "medium_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "volatility_index": 37.3,
+      "sharpe_ratio": 0.62,
+      "max_drawdown_pct": 26.3
+    }
+  },
+  {
+    "doc_id": 60,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "cash",
+      "US_equity",
+      "real_estate"
+    ],
+    "informativeness": 1.5771,
+    "time_horizon": "medium_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "gdp_growth_pct": 0.85,
+      "inflation_pct": 3.04,
+      "interest_rate_pct": 1.15
+    }
+  },
+  {
+    "doc_id": 61,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "commodities"
+    ],
+    "informativeness": 1.9213,
+    "time_horizon": "long_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "gdp_growth_pct": 2.39,
+      "inflation_pct": 5.77,
+      "interest_rate_pct": 3.8
+    }
+  },
+  {
+    "doc_id": 62,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity",
+      "emerging_markets",
+      "intl_equity"
+    ],
+    "informativeness": 2.1813,
+    "time_horizon": "medium_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "revenue_growth_pct": 0.59,
+      "pe_ratio": 35.7,
+      "eps_surprise_pct": 3.57
+    }
+  },
+  {
+    "doc_id": 63,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "real_estate",
+      "bonds",
+      "commodities"
+    ],
+    "informativeness": 2.0093,
+    "time_horizon": "long_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "target_return_pct": 5.88,
+      "confidence_score": 0.37
+    }
+  },
+  {
+    "doc_id": 64,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "commodities"
+    ],
+    "informativeness": 2.9512,
+    "time_horizon": "long_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "gdp_growth_pct": 2.77,
+      "inflation_pct": 6.45,
+      "interest_rate_pct": 0.51
+    }
+  },
+  {
+    "doc_id": 65,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "real_estate"
+    ],
+    "informativeness": 2.4674,
+    "time_horizon": "short_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "target_return_pct": -0.43,
+      "confidence_score": 0.33
+    }
+  },
+  {
+    "doc_id": 66,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "US_equity"
+    ],
+    "informativeness": 2.3118,
+    "time_horizon": "long_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "gdp_growth_pct": 3.07,
+      "inflation_pct": 0.87,
+      "interest_rate_pct": 1.41
+    }
+  },
+  {
+    "doc_id": 67,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "commodities"
+    ],
+    "informativeness": 1.7085,
+    "time_horizon": "short_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "volatility_index": 10.9,
+      "sharpe_ratio": 0.73,
+      "max_drawdown_pct": 27.4
+    }
+  },
+  {
+    "doc_id": 68,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "bonds",
+      "commodities",
+      "alternatives"
+    ],
+    "informativeness": 1.1963,
+    "time_horizon": "medium_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "volatility_index": 18.2,
+      "sharpe_ratio": 0.91,
+      "max_drawdown_pct": 9.7
+    }
+  },
+  {
+    "doc_id": 69,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "bonds",
+      "cash",
+      "commodities"
+    ],
+    "informativeness": 5.9693,
+    "time_horizon": "long_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "gdp_growth_pct": 1.79,
+      "inflation_pct": 4.81,
+      "interest_rate_pct": 5.99
+    }
+  },
+  {
+    "doc_id": 70,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "US_equity",
+      "real_estate",
+      "cash"
+    ],
+    "informativeness": 1.4518,
+    "time_horizon": "long_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "target_return_pct": 10.94,
+      "confidence_score": 0.31
+    }
+  },
+  {
+    "doc_id": 71,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "intl_equity"
+    ],
+    "informativeness": 3.7732,
+    "time_horizon": "long_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "revenue_growth_pct": 4.74,
+      "pe_ratio": 25.3,
+      "eps_surprise_pct": -1.71
+    }
+  },
+  {
+    "doc_id": 72,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "bonds",
+      "US_equity",
+      "commodities",
+      "cash"
+    ],
+    "informativeness": 2.0436,
+    "time_horizon": "long_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "gdp_growth_pct": 3.25,
+      "inflation_pct": 1.67,
+      "interest_rate_pct": 5.25
+    }
+  },
+  {
+    "doc_id": 73,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity"
+    ],
+    "informativeness": 1.4603,
+    "time_horizon": "medium_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "revenue_growth_pct": 23.78,
+      "pe_ratio": 29.6,
+      "eps_surprise_pct": -2.18
+    }
+  },
+  {
+    "doc_id": 74,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "US_equity"
+    ],
+    "informativeness": 4.4459,
+    "time_horizon": "short_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "revenue_growth_pct": 9.71,
+      "pe_ratio": 21.9,
+      "eps_surprise_pct": 4.76
+    }
+  },
+  {
+    "doc_id": 75,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "emerging_markets",
+      "US_equity",
+      "alternatives",
+      "bonds"
+    ],
+    "informativeness": 1.4203,
+    "time_horizon": "short_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "target_return_pct": 2.85,
+      "confidence_score": 0.53
+    }
+  },
+  {
+    "doc_id": 76,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "intl_equity",
+      "US_equity",
+      "emerging_markets"
+    ],
+    "informativeness": 1.3967,
+    "time_horizon": "short_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "revenue_growth_pct": 15.52,
+      "pe_ratio": 35.6,
+      "eps_surprise_pct": -0.06
+    }
+  },
+  {
+    "doc_id": 77,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "intl_equity"
+    ],
+    "informativeness": 0.3534,
+    "time_horizon": "medium_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "revenue_growth_pct": -10.33,
+      "pe_ratio": 16.3,
+      "eps_surprise_pct": 5.64
+    }
+  },
+  {
+    "doc_id": 78,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "intl_equity"
+    ],
+    "informativeness": 4.3542,
+    "time_horizon": "medium_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "revenue_growth_pct": -12.1,
+      "pe_ratio": 22.7,
+      "eps_surprise_pct": 2.24
+    }
+  },
+  {
+    "doc_id": 79,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "intl_equity",
+      "bonds"
+    ],
+    "informativeness": 2.0522,
+    "time_horizon": "short_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "target_return_pct": 12.04,
+      "confidence_score": 0.37
+    }
+  },
+  {
+    "doc_id": 80,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "intl_equity",
+      "emerging_markets",
+      "US_equity"
+    ],
+    "informativeness": 0.2341,
+    "time_horizon": "medium_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "revenue_growth_pct": 31.96,
+      "pe_ratio": 13.2,
+      "eps_surprise_pct": -1.86
+    }
+  },
+  {
+    "doc_id": 81,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "cash",
+      "real_estate",
+      "intl_equity",
+      "alternatives"
+    ],
+    "informativeness": 5.1968,
+    "time_horizon": "long_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "target_return_pct": 12.28,
+      "confidence_score": 0.78
+    }
+  },
+  {
+    "doc_id": 82,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity",
+      "emerging_markets"
+    ],
+    "informativeness": 2.6315,
+    "time_horizon": "medium_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "revenue_growth_pct": 6.25,
+      "pe_ratio": 13.3,
+      "eps_surprise_pct": -6.4
+    }
+  },
+  {
+    "doc_id": 83,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "cash",
+      "commodities",
+      "bonds",
+      "US_equity"
+    ],
+    "informativeness": 1.6823,
+    "time_horizon": "long_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "gdp_growth_pct": 2.6,
+      "inflation_pct": 4.3,
+      "interest_rate_pct": 5.95
+    }
+  },
+  {
+    "doc_id": 84,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "cash",
+      "bonds"
+    ],
+    "informativeness": 3.1081,
+    "time_horizon": "medium_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "volatility_index": 36.4,
+      "sharpe_ratio": 0.9,
+      "max_drawdown_pct": 20.5
+    }
+  },
+  {
+    "doc_id": 85,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "emerging_markets"
+    ],
+    "informativeness": 2.4176,
+    "time_horizon": "short_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "revenue_growth_pct": 3.16,
+      "pe_ratio": 27.1,
+      "eps_surprise_pct": 5.3
+    }
+  },
+  {
+    "doc_id": 86,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "alternatives",
+      "commodities",
+      "real_estate",
+      "intl_equity"
+    ],
+    "informativeness": 2.2058,
+    "time_horizon": "long_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "target_return_pct": 7.34,
+      "confidence_score": 0.89
+    }
+  },
+  {
+    "doc_id": 87,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "intl_equity",
+      "emerging_markets"
+    ],
+    "informativeness": 2.0149,
+    "time_horizon": "short_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "revenue_growth_pct": 9.67,
+      "pe_ratio": 20.6,
+      "eps_surprise_pct": 1.22
+    }
+  },
+  {
+    "doc_id": 88,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity",
+      "intl_equity",
+      "cash"
+    ],
+    "informativeness": 0.5715,
+    "time_horizon": "short_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "revenue_growth_pct": 5.44,
+      "pe_ratio": 20.1,
+      "eps_surprise_pct": -0.59
+    }
+  },
+  {
+    "doc_id": 89,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "commodities"
+    ],
+    "informativeness": 2.2319,
+    "time_horizon": "medium_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "volatility_index": 37.1,
+      "sharpe_ratio": 0.62,
+      "max_drawdown_pct": 25.0
+    }
+  },
+  {
+    "doc_id": 90,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "US_equity"
+    ],
+    "informativeness": 1.2695,
+    "time_horizon": "short_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "revenue_growth_pct": 31.31,
+      "pe_ratio": 36.4,
+      "eps_surprise_pct": 0.66
+    }
+  },
+  {
+    "doc_id": 91,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "bonds",
+      "commodities",
+      "cash"
+    ],
+    "informativeness": 3.2567,
+    "time_horizon": "medium_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "gdp_growth_pct": 3.36,
+      "inflation_pct": 3.33,
+      "interest_rate_pct": 2.36
+    }
+  },
+  {
+    "doc_id": 92,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "alternatives"
+    ],
+    "informativeness": 0.6932,
+    "time_horizon": "short_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "volatility_index": 36.4,
+      "sharpe_ratio": 0.65,
+      "max_drawdown_pct": 10.1
+    }
+  },
+  {
+    "doc_id": 93,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "commodities",
+      "cash",
+      "alternatives",
+      "bonds",
+      "intl_equity"
+    ],
+    "informativeness": 0.6747,
+    "time_horizon": "short_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "volatility_index": 24.9,
+      "sharpe_ratio": 0.02,
+      "max_drawdown_pct": 11.3
+    }
+  },
+  {
+    "doc_id": 94,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity"
+    ],
+    "informativeness": 1.9752,
+    "time_horizon": "long_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "revenue_growth_pct": -12.58,
+      "pe_ratio": 10.3,
+      "eps_surprise_pct": 1.44
+    }
+  },
+  {
+    "doc_id": 95,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "alternatives",
+      "commodities",
+      "bonds",
+      "intl_equity"
+    ],
+    "informativeness": 1.0454,
+    "time_horizon": "short_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "target_return_pct": 6.44,
+      "confidence_score": 0.81
+    }
+  },
+  {
+    "doc_id": 96,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "US_equity",
+      "commodities",
+      "cash"
+    ],
+    "informativeness": 1.8026,
+    "time_horizon": "medium_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "gdp_growth_pct": 1.07,
+      "inflation_pct": 1.4,
+      "interest_rate_pct": 5.38
+    }
+  },
+  {
+    "doc_id": 97,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "US_equity",
+      "cash",
+      "bonds",
+      "commodities"
+    ],
+    "informativeness": 2.4917,
+    "time_horizon": "medium_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "gdp_growth_pct": 3.74,
+      "inflation_pct": 7.06,
+      "interest_rate_pct": 2.04
+    }
+  },
+  {
+    "doc_id": 98,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "commodities",
+      "bonds",
+      "alternatives",
+      "US_equity"
+    ],
+    "informativeness": 1.8254,
+    "time_horizon": "long_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "volatility_index": 24.7,
+      "sharpe_ratio": 0.92,
+      "max_drawdown_pct": 18.4
+    }
+  },
+  {
+    "doc_id": 99,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "intl_equity",
+      "US_equity",
+      "emerging_markets"
+    ],
+    "informativeness": 2.315,
+    "time_horizon": "long_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "revenue_growth_pct": 9.64,
+      "pe_ratio": 25.7,
+      "eps_surprise_pct": -5.75
+    }
+  },
+  {
+    "doc_id": 100,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "emerging_markets",
+      "US_equity"
+    ],
+    "informativeness": 1.9551,
+    "time_horizon": "long_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "revenue_growth_pct": 23.0,
+      "pe_ratio": 20.8,
+      "eps_surprise_pct": -1.78
+    }
+  },
+  {
+    "doc_id": 101,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "cash"
+    ],
+    "informativeness": 2.3206,
+    "time_horizon": "long_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "volatility_index": 11.5,
+      "sharpe_ratio": 1.69,
+      "max_drawdown_pct": 24.9
+    }
+  },
+  {
+    "doc_id": 102,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "cash",
+      "US_equity",
+      "bonds"
+    ],
+    "informativeness": 1.8416,
+    "time_horizon": "short_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "gdp_growth_pct": 1.95,
+      "inflation_pct": 7.95,
+      "interest_rate_pct": 1.69
+    }
+  },
+  {
+    "doc_id": 103,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "bonds",
+      "real_estate"
+    ],
+    "informativeness": 1.3276,
+    "time_horizon": "medium_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "target_return_pct": 11.08,
+      "confidence_score": 0.49
+    }
+  },
+  {
+    "doc_id": 104,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "intl_equity",
+      "US_equity"
+    ],
+    "informativeness": 0.4251,
+    "time_horizon": "medium_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "revenue_growth_pct": -17.96,
+      "pe_ratio": 13.7,
+      "eps_surprise_pct": 3.68
+    }
+  },
+  {
+    "doc_id": 105,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "emerging_markets",
+      "bonds",
+      "cash",
+      "US_equity"
+    ],
+    "informativeness": 1.3057,
+    "time_horizon": "long_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "target_return_pct": 15.4,
+      "confidence_score": 0.52
+    }
+  },
+  {
+    "doc_id": 106,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "cash",
+      "commodities",
+      "US_equity"
+    ],
+    "informativeness": 1.8281,
+    "time_horizon": "short_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "gdp_growth_pct": 1.91,
+      "inflation_pct": 3.07,
+      "interest_rate_pct": 2.45
+    }
+  },
+  {
+    "doc_id": 107,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "US_equity",
+      "intl_equity"
+    ],
+    "informativeness": 2.69,
+    "time_horizon": "long_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "revenue_growth_pct": 10.68,
+      "pe_ratio": 18.4,
+      "eps_surprise_pct": 7.21
+    }
+  },
+  {
+    "doc_id": 108,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "intl_equity",
+      "US_equity",
+      "emerging_markets"
+    ],
+    "informativeness": 1.7349,
+    "time_horizon": "long_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "revenue_growth_pct": 14.3,
+      "pe_ratio": 29.6,
+      "eps_surprise_pct": 1.58
+    }
+  },
+  {
+    "doc_id": 109,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "cash"
+    ],
+    "informativeness": 1.2391,
+    "time_horizon": "medium_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "volatility_index": 28.8,
+      "sharpe_ratio": 1.52,
+      "max_drawdown_pct": 29.4
+    }
+  },
+  {
+    "doc_id": 110,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "commodities",
+      "bonds",
+      "cash"
+    ],
+    "informativeness": 1.6649,
+    "time_horizon": "medium_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "gdp_growth_pct": 3.21,
+      "inflation_pct": 6.9,
+      "interest_rate_pct": 1.93
+    }
+  },
+  {
+    "doc_id": 111,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "real_estate",
+      "alternatives",
+      "bonds"
+    ],
+    "informativeness": 1.0644,
+    "time_horizon": "medium_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "target_return_pct": 10.19,
+      "confidence_score": 0.75
+    }
+  },
+  {
+    "doc_id": 112,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "commodities",
+      "bonds",
+      "US_equity",
+      "intl_equity"
+    ],
+    "informativeness": 1.8677,
+    "time_horizon": "short_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "target_return_pct": 10.22,
+      "confidence_score": 0.55
+    }
+  },
+  {
+    "doc_id": 113,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "commodities"
+    ],
+    "informativeness": 0.9655,
+    "time_horizon": "long_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "gdp_growth_pct": 2.68,
+      "inflation_pct": 6.79,
+      "interest_rate_pct": 0.83
+    }
+  },
+  {
+    "doc_id": 114,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "commodities",
+      "bonds",
+      "cash"
+    ],
+    "informativeness": 0.7441,
+    "time_horizon": "short_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "gdp_growth_pct": 6.21,
+      "inflation_pct": 7.5,
+      "interest_rate_pct": 5.88
+    }
+  },
+  {
+    "doc_id": 115,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "cash"
+    ],
+    "informativeness": 1.7479,
+    "time_horizon": "short_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "volatility_index": 13.4,
+      "sharpe_ratio": 0.23,
+      "max_drawdown_pct": 9.4
+    }
+  },
+  {
+    "doc_id": 116,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "alternatives"
+    ],
+    "informativeness": 1.6777,
+    "time_horizon": "long_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "volatility_index": 39.8,
+      "sharpe_ratio": 1.61,
+      "max_drawdown_pct": 7.4
+    }
+  },
+  {
+    "doc_id": 117,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "commodities",
+      "alternatives",
+      "bonds"
+    ],
+    "informativeness": 2.5646,
+    "time_horizon": "medium_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "volatility_index": 33.6,
+      "sharpe_ratio": 0.32,
+      "max_drawdown_pct": 25.5
+    }
+  },
+  {
+    "doc_id": 118,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "US_equity",
+      "cash",
+      "commodities",
+      "bonds"
+    ],
+    "informativeness": 1.3751,
+    "time_horizon": "long_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "gdp_growth_pct": 3.7,
+      "inflation_pct": 1.65,
+      "interest_rate_pct": 3.2
+    }
+  },
+  {
+    "doc_id": 119,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "real_estate",
+      "US_equity",
+      "intl_equity"
+    ],
+    "informativeness": 1.3804,
+    "time_horizon": "medium_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "target_return_pct": 16.86,
+      "confidence_score": 0.4
+    }
+  },
+  {
+    "doc_id": 120,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "bonds"
+    ],
+    "informativeness": 0.7583,
+    "time_horizon": "medium_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "volatility_index": 12.8,
+      "sharpe_ratio": 0.92,
+      "max_drawdown_pct": 23.4
+    }
+  },
+  {
+    "doc_id": 121,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "US_equity"
+    ],
+    "informativeness": 1.6716,
+    "time_horizon": "long_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "revenue_growth_pct": -25.02,
+      "pe_ratio": 14.7,
+      "eps_surprise_pct": 0.07
+    }
+  },
+  {
+    "doc_id": 122,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "US_equity",
+      "commodities",
+      "bonds",
+      "cash"
+    ],
+    "informativeness": 1.9158,
+    "time_horizon": "short_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "gdp_growth_pct": 1.16,
+      "inflation_pct": 3.87,
+      "interest_rate_pct": 2.36
+    }
+  },
+  {
+    "doc_id": 123,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "emerging_markets"
+    ],
+    "informativeness": 0.0825,
+    "time_horizon": "medium_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "revenue_growth_pct": -0.45,
+      "pe_ratio": 17.3,
+      "eps_surprise_pct": -7.54
+    }
+  },
+  {
+    "doc_id": 124,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "emerging_markets",
+      "intl_equity"
+    ],
+    "informativeness": 1.1896,
+    "time_horizon": "long_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "revenue_growth_pct": -23.62,
+      "pe_ratio": 16.3,
+      "eps_surprise_pct": -4.99
+    }
+  },
+  {
+    "doc_id": 125,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "commodities",
+      "bonds"
+    ],
+    "informativeness": 1.866,
+    "time_horizon": "short_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "volatility_index": 19.4,
+      "sharpe_ratio": 1.43,
+      "max_drawdown_pct": 21.9
+    }
+  },
+  {
+    "doc_id": 126,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "emerging_markets"
+    ],
+    "informativeness": 1.2909,
+    "time_horizon": "short_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "target_return_pct": 7.3,
+      "confidence_score": 0.58
+    }
+  },
+  {
+    "doc_id": 127,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "intl_equity",
+      "US_equity",
+      "emerging_markets"
+    ],
+    "informativeness": 5.695,
+    "time_horizon": "short_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "revenue_growth_pct": 27.27,
+      "pe_ratio": 11.2,
+      "eps_surprise_pct": -6.61
+    }
+  },
+  {
+    "doc_id": 128,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "alternatives",
+      "US_equity"
+    ],
+    "informativeness": 0.96,
+    "time_horizon": "short_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "volatility_index": 11.7,
+      "sharpe_ratio": 2.14,
+      "max_drawdown_pct": 11.6
+    }
+  },
+  {
+    "doc_id": 129,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "cash",
+      "bonds",
+      "commodities",
+      "US_equity",
+      "alternatives"
+    ],
+    "informativeness": 0.4456,
+    "time_horizon": "medium_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "gdp_growth_pct": 0.21,
+      "inflation_pct": 6.89,
+      "interest_rate_pct": 4.53
+    }
+  },
+  {
+    "doc_id": 130,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "emerging_markets",
+      "intl_equity",
+      "US_equity",
+      "real_estate"
+    ],
+    "informativeness": 2.7955,
+    "time_horizon": "medium_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "revenue_growth_pct": 13.49,
+      "pe_ratio": 13.5,
+      "eps_surprise_pct": -5.61
+    }
+  },
+  {
+    "doc_id": 131,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "US_equity"
+    ],
+    "informativeness": 0.1149,
+    "time_horizon": "long_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "revenue_growth_pct": -6.89,
+      "pe_ratio": 12.1,
+      "eps_surprise_pct": 2.85
+    }
+  },
+  {
+    "doc_id": 132,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "US_equity"
+    ],
+    "informativeness": 0.6794,
+    "time_horizon": "short_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "gdp_growth_pct": 3.57,
+      "inflation_pct": 5.25,
+      "interest_rate_pct": 5.56
+    }
+  },
+  {
+    "doc_id": 133,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "US_equity",
+      "intl_equity"
+    ],
+    "informativeness": 3.2533,
+    "time_horizon": "medium_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "revenue_growth_pct": 9.53,
+      "pe_ratio": 25.7,
+      "eps_surprise_pct": -3.14
+    }
+  },
+  {
+    "doc_id": 134,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "intl_equity",
+      "US_equity",
+      "real_estate"
+    ],
+    "informativeness": 1.1184,
+    "time_horizon": "long_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "revenue_growth_pct": 16.94,
+      "pe_ratio": 26.0,
+      "eps_surprise_pct": -0.25
+    }
+  },
+  {
+    "doc_id": 135,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "intl_equity"
+    ],
+    "informativeness": 2.655,
+    "time_horizon": "long_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "revenue_growth_pct": 26.74,
+      "pe_ratio": 20.6,
+      "eps_surprise_pct": 1.87
+    }
+  },
+  {
+    "doc_id": 136,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "emerging_markets",
+      "intl_equity",
+      "US_equity"
+    ],
+    "informativeness": 2.1817,
+    "time_horizon": "short_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "revenue_growth_pct": -27.56,
+      "pe_ratio": 23.9,
+      "eps_surprise_pct": 3.98
+    }
+  },
+  {
+    "doc_id": 137,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "bonds",
+      "commodities"
+    ],
+    "informativeness": 1.6369,
+    "time_horizon": "long_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "volatility_index": 18.1,
+      "sharpe_ratio": 0.78,
+      "max_drawdown_pct": 24.4
+    }
+  },
+  {
+    "doc_id": 138,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "intl_equity",
+      "US_equity"
+    ],
+    "informativeness": 0.9503,
+    "time_horizon": "long_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "revenue_growth_pct": 5.8,
+      "pe_ratio": 20.0,
+      "eps_surprise_pct": -12.73
+    }
+  },
+  {
+    "doc_id": 139,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "intl_equity"
+    ],
+    "informativeness": 1.3631,
+    "time_horizon": "long_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "revenue_growth_pct": 23.49,
+      "pe_ratio": 19.8,
+      "eps_surprise_pct": -1.74
+    }
+  },
+  {
+    "doc_id": 140,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "emerging_markets"
+    ],
+    "informativeness": 2.2445,
+    "time_horizon": "long_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "revenue_growth_pct": 1.96,
+      "pe_ratio": 24.7,
+      "eps_surprise_pct": -7.43
+    }
+  },
+  {
+    "doc_id": 141,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "alternatives",
+      "real_estate"
+    ],
+    "informativeness": 1.6381,
+    "time_horizon": "short_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "target_return_pct": 12.84,
+      "confidence_score": 0.61
+    }
+  },
+  {
+    "doc_id": 142,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "bonds",
+      "US_equity"
+    ],
+    "informativeness": 0.2278,
+    "time_horizon": "medium_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "target_return_pct": 9.35,
+      "confidence_score": 0.79
+    }
+  },
+  {
+    "doc_id": 143,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "intl_equity",
+      "US_equity"
+    ],
+    "informativeness": 8.1871,
+    "time_horizon": "medium_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "revenue_growth_pct": 11.42,
+      "pe_ratio": 9.1,
+      "eps_surprise_pct": -2.63
+    }
+  },
+  {
+    "doc_id": 144,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "commodities",
+      "cash",
+      "US_equity",
+      "bonds"
+    ],
+    "informativeness": 1.5297,
+    "time_horizon": "short_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "gdp_growth_pct": 0.06,
+      "inflation_pct": 1.38,
+      "interest_rate_pct": 0.36
+    }
+  },
+  {
+    "doc_id": 145,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity",
+      "intl_equity",
+      "emerging_markets"
+    ],
+    "informativeness": 1.1911,
+    "time_horizon": "long_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "revenue_growth_pct": 18.74,
+      "pe_ratio": 39.0,
+      "eps_surprise_pct": 4.31
+    }
+  },
+  {
+    "doc_id": 146,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "commodities"
+    ],
+    "informativeness": 4.0376,
+    "time_horizon": "short_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "volatility_index": 34.9,
+      "sharpe_ratio": 1.41,
+      "max_drawdown_pct": 26.1
+    }
+  },
+  {
+    "doc_id": 147,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "cash",
+      "commodities"
+    ],
+    "informativeness": 2.4926,
+    "time_horizon": "long_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "volatility_index": 39.2,
+      "sharpe_ratio": 1.61,
+      "max_drawdown_pct": 17.1
+    }
+  },
+  {
+    "doc_id": 148,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "intl_equity"
+    ],
+    "informativeness": 1.7912,
+    "time_horizon": "medium_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "revenue_growth_pct": 10.05,
+      "pe_ratio": 22.3,
+      "eps_surprise_pct": -3.36
+    }
+  },
+  {
+    "doc_id": 149,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "intl_equity",
+      "emerging_markets",
+      "US_equity"
+    ],
+    "informativeness": 5.4123,
+    "time_horizon": "short_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "revenue_growth_pct": 13.63,
+      "pe_ratio": 39.3,
+      "eps_surprise_pct": 5.91
+    }
+  },
+  {
+    "doc_id": 150,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "intl_equity",
+      "US_equity",
+      "emerging_markets"
+    ],
+    "informativeness": 1.0238,
+    "time_horizon": "medium_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "revenue_growth_pct": 14.78,
+      "pe_ratio": 28.0,
+      "eps_surprise_pct": 2.57
+    }
+  },
+  {
+    "doc_id": 151,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "US_equity",
+      "intl_equity"
+    ],
+    "informativeness": 3.882,
+    "time_horizon": "short_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "revenue_growth_pct": 38.44,
+      "pe_ratio": 22.0,
+      "eps_surprise_pct": 4.86
+    }
+  },
+  {
+    "doc_id": 152,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "cash",
+      "emerging_markets",
+      "real_estate"
+    ],
+    "informativeness": 4.209,
+    "time_horizon": "short_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "target_return_pct": 12.12,
+      "confidence_score": 0.44
+    }
+  },
+  {
+    "doc_id": 153,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "alternatives",
+      "bonds",
+      "commodities",
+      "US_equity"
+    ],
+    "informativeness": 0.3214,
+    "time_horizon": "short_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "volatility_index": 23.1,
+      "sharpe_ratio": -0.48,
+      "max_drawdown_pct": 17.2
+    }
+  },
+  {
+    "doc_id": 154,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "intl_equity",
+      "bonds"
+    ],
+    "informativeness": 0.4388,
+    "time_horizon": "long_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "revenue_growth_pct": 9.35,
+      "pe_ratio": 39.4,
+      "eps_surprise_pct": 7.58
+    }
+  },
+  {
+    "doc_id": 155,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "intl_equity",
+      "US_equity",
+      "cash"
+    ],
+    "informativeness": 1.5345,
+    "time_horizon": "long_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "revenue_growth_pct": 3.29,
+      "pe_ratio": 35.4,
+      "eps_surprise_pct": 0.45
+    }
+  },
+  {
+    "doc_id": 156,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "US_equity"
+    ],
+    "informativeness": 3.2446,
+    "time_horizon": "long_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "revenue_growth_pct": 11.9,
+      "pe_ratio": 34.0,
+      "eps_surprise_pct": 0.2
+    }
+  },
+  {
+    "doc_id": 157,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "emerging_markets",
+      "US_equity",
+      "intl_equity"
+    ],
+    "informativeness": 1.812,
+    "time_horizon": "medium_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "revenue_growth_pct": -28.91,
+      "pe_ratio": 36.6,
+      "eps_surprise_pct": -0.81
+    }
+  },
+  {
+    "doc_id": 158,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "US_equity",
+      "alternatives"
+    ],
+    "informativeness": 4.9813,
+    "time_horizon": "short_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "revenue_growth_pct": 6.72,
+      "pe_ratio": 32.3,
+      "eps_surprise_pct": 3.89
+    }
+  },
+  {
+    "doc_id": 159,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "cash"
+    ],
+    "informativeness": 2.1275,
+    "time_horizon": "medium_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "target_return_pct": 7.89,
+      "confidence_score": 0.63
+    }
+  },
+  {
+    "doc_id": 160,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "commodities",
+      "bonds",
+      "US_equity",
+      "cash"
+    ],
+    "informativeness": 2.7651,
+    "time_horizon": "long_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "gdp_growth_pct": 1.06,
+      "inflation_pct": 3.21,
+      "interest_rate_pct": 1.06
+    }
+  },
+  {
+    "doc_id": 161,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "bonds"
+    ],
+    "informativeness": 0.158,
+    "time_horizon": "short_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "target_return_pct": 8.66,
+      "confidence_score": 0.38
+    }
+  },
+  {
+    "doc_id": 162,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "intl_equity",
+      "US_equity"
+    ],
+    "informativeness": 1.9532,
+    "time_horizon": "medium_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "revenue_growth_pct": 0.27,
+      "pe_ratio": 35.7,
+      "eps_surprise_pct": -6.34
+    }
+  },
+  {
+    "doc_id": 163,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "intl_equity"
+    ],
+    "informativeness": 1.4351,
+    "time_horizon": "medium_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "revenue_growth_pct": 22.98,
+      "pe_ratio": 8.5,
+      "eps_surprise_pct": -10.67
+    }
+  },
+  {
+    "doc_id": 164,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "US_equity"
+    ],
+    "informativeness": 3.282,
+    "time_horizon": "medium_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "revenue_growth_pct": -9.39,
+      "pe_ratio": 33.4,
+      "eps_surprise_pct": -8.44
+    }
+  },
+  {
+    "doc_id": 165,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "intl_equity",
+      "US_equity",
+      "emerging_markets"
+    ],
+    "informativeness": 1.9917,
+    "time_horizon": "long_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "revenue_growth_pct": 1.45,
+      "pe_ratio": 19.0,
+      "eps_surprise_pct": -4.02
+    }
+  },
+  {
+    "doc_id": 166,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "commodities",
+      "cash",
+      "bonds",
+      "real_estate"
+    ],
+    "informativeness": 1.238,
+    "time_horizon": "long_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "volatility_index": 15.8,
+      "sharpe_ratio": 1.39,
+      "max_drawdown_pct": 25.3
+    }
+  },
+  {
+    "doc_id": 167,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "alternatives",
+      "commodities",
+      "bonds",
+      "cash"
+    ],
+    "informativeness": 0.7237,
+    "time_horizon": "long_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "volatility_index": 17.9,
+      "sharpe_ratio": 1.36,
+      "max_drawdown_pct": 15.8
+    }
+  },
+  {
+    "doc_id": 168,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "intl_equity",
+      "cash",
+      "commodities"
+    ],
+    "informativeness": 0.4063,
+    "time_horizon": "long_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "target_return_pct": 13.14,
+      "confidence_score": 0.9
+    }
+  },
+  {
+    "doc_id": 169,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "intl_equity"
+    ],
+    "informativeness": 2.4827,
+    "time_horizon": "short_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "target_return_pct": -0.1,
+      "confidence_score": 0.52
+    }
+  },
+  {
+    "doc_id": 170,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "bonds",
+      "real_estate"
+    ],
+    "informativeness": 0.4411,
+    "time_horizon": "medium_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "gdp_growth_pct": 0.91,
+      "inflation_pct": 7.87,
+      "interest_rate_pct": 2.47
+    }
+  },
+  {
+    "doc_id": 171,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "commodities",
+      "cash",
+      "bonds"
+    ],
+    "informativeness": 1.5967,
+    "time_horizon": "medium_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "volatility_index": 16.0,
+      "sharpe_ratio": 0.84,
+      "max_drawdown_pct": 16.6
+    }
+  },
+  {
+    "doc_id": 172,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "US_equity",
+      "bonds"
+    ],
+    "informativeness": 2.0671,
+    "time_horizon": "long_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "gdp_growth_pct": 2.12,
+      "inflation_pct": 7.58,
+      "interest_rate_pct": 2.41
+    }
+  },
+  {
+    "doc_id": 173,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "US_equity",
+      "bonds",
+      "cash",
+      "commodities",
+      "intl_equity"
+    ],
+    "informativeness": 1.7275,
+    "time_horizon": "short_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "gdp_growth_pct": 2.29,
+      "inflation_pct": 6.88,
+      "interest_rate_pct": 5.09
+    }
+  },
+  {
+    "doc_id": 174,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "intl_equity"
+    ],
+    "informativeness": 0.5358,
+    "time_horizon": "short_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "revenue_growth_pct": 4.74,
+      "pe_ratio": 33.0,
+      "eps_surprise_pct": 5.42
+    }
+  },
+  {
+    "doc_id": 175,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "commodities"
+    ],
+    "informativeness": 1.6774,
+    "time_horizon": "long_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "volatility_index": 34.6,
+      "sharpe_ratio": -0.21,
+      "max_drawdown_pct": 7.9
+    }
+  },
+  {
+    "doc_id": 176,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "emerging_markets"
+    ],
+    "informativeness": 3.6784,
+    "time_horizon": "medium_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "target_return_pct": 5.47,
+      "confidence_score": 0.45
+    }
+  },
+  {
+    "doc_id": 177,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "bonds",
+      "commodities",
+      "cash",
+      "alternatives"
+    ],
+    "informativeness": 0.2707,
+    "time_horizon": "short_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "volatility_index": 39.5,
+      "sharpe_ratio": 0.45,
+      "max_drawdown_pct": 21.0
+    }
+  },
+  {
+    "doc_id": 178,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "US_equity",
+      "alternatives",
+      "emerging_markets"
+    ],
+    "informativeness": 1.6692,
+    "time_horizon": "medium_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "target_return_pct": 7.55,
+      "confidence_score": 0.89
+    }
+  },
+  {
+    "doc_id": 179,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "intl_equity",
+      "US_equity"
+    ],
+    "informativeness": 0.3303,
+    "time_horizon": "short_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "revenue_growth_pct": -5.89,
+      "pe_ratio": 8.8,
+      "eps_surprise_pct": -7.5
+    }
+  },
+  {
+    "doc_id": 180,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "real_estate",
+      "intl_equity",
+      "bonds"
+    ],
+    "informativeness": 1.0638,
+    "time_horizon": "short_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "target_return_pct": 12.37,
+      "confidence_score": 0.33
+    }
+  },
+  {
+    "doc_id": 181,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "US_equity",
+      "commodities"
+    ],
+    "informativeness": 1.07,
+    "time_horizon": "medium_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "gdp_growth_pct": 1.3,
+      "inflation_pct": 2.34,
+      "interest_rate_pct": 1.38
+    }
+  },
+  {
+    "doc_id": 182,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "US_equity"
+    ],
+    "informativeness": 1.856,
+    "time_horizon": "long_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "revenue_growth_pct": 33.54,
+      "pe_ratio": 22.4,
+      "eps_surprise_pct": 1.3
+    }
+  },
+  {
+    "doc_id": 183,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "US_equity"
+    ],
+    "informativeness": 1.0235,
+    "time_horizon": "long_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "revenue_growth_pct": 3.3,
+      "pe_ratio": 39.1,
+      "eps_surprise_pct": 0.63
+    }
+  },
+  {
+    "doc_id": 184,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "alternatives",
+      "commodities",
+      "cash",
+      "bonds",
+      "US_equity"
+    ],
+    "informativeness": 0.9492,
+    "time_horizon": "short_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "volatility_index": 14.0,
+      "sharpe_ratio": 0.53,
+      "max_drawdown_pct": 19.5
+    }
+  },
+  {
+    "doc_id": 185,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "emerging_markets"
+    ],
+    "informativeness": 1.5521,
+    "time_horizon": "medium_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "revenue_growth_pct": -16.63,
+      "pe_ratio": 22.3,
+      "eps_surprise_pct": 4.57
+    }
+  },
+  {
+    "doc_id": 186,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "emerging_markets",
+      "US_equity"
+    ],
+    "informativeness": 1.2136,
+    "time_horizon": "long_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "revenue_growth_pct": -14.68,
+      "pe_ratio": 30.0,
+      "eps_surprise_pct": -3.87
+    }
+  },
+  {
+    "doc_id": 187,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "intl_equity",
+      "US_equity",
+      "cash",
+      "commodities"
+    ],
+    "informativeness": 0.9885,
+    "time_horizon": "long_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "target_return_pct": 13.5,
+      "confidence_score": 0.63
+    }
+  },
+  {
+    "doc_id": 188,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "bonds",
+      "US_equity",
+      "cash"
+    ],
+    "informativeness": 0.8508,
+    "time_horizon": "short_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "gdp_growth_pct": 0.42,
+      "inflation_pct": 3.57,
+      "interest_rate_pct": 0.52
+    }
+  },
+  {
+    "doc_id": 189,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity",
+      "emerging_markets",
+      "intl_equity"
+    ],
+    "informativeness": 1.2966,
+    "time_horizon": "long_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "revenue_growth_pct": -14.43,
+      "pe_ratio": 24.0,
+      "eps_surprise_pct": 5.6
+    }
+  },
+  {
+    "doc_id": 190,
+    "doc_type": "risk_assessment",
+    "relevant_sectors": [
+      "alternatives",
+      "commodities",
+      "cash"
+    ],
+    "informativeness": 4.3571,
+    "time_horizon": "medium_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "volatility_index": 24.4,
+      "sharpe_ratio": 0.51,
+      "max_drawdown_pct": 17.3
+    }
+  },
+  {
+    "doc_id": 191,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "intl_equity"
+    ],
+    "informativeness": 2.0871,
+    "time_horizon": "long_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "revenue_growth_pct": 4.88,
+      "pe_ratio": 21.8,
+      "eps_surprise_pct": -1.5
+    }
+  },
+  {
+    "doc_id": 192,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "emerging_markets",
+      "intl_equity"
+    ],
+    "informativeness": 1.4827,
+    "time_horizon": "long_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "revenue_growth_pct": 4.4,
+      "pe_ratio": 18.4,
+      "eps_surprise_pct": -1.52
+    }
+  },
+  {
+    "doc_id": 193,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "US_equity",
+      "bonds"
+    ],
+    "informativeness": 1.6659,
+    "time_horizon": "short_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "gdp_growth_pct": -0.93,
+      "inflation_pct": 2.18,
+      "interest_rate_pct": 1.72
+    }
+  },
+  {
+    "doc_id": 194,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "commodities",
+      "intl_equity"
+    ],
+    "informativeness": 2.6799,
+    "time_horizon": "short_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "target_return_pct": 6.7,
+      "confidence_score": 0.82
+    }
+  },
+  {
+    "doc_id": 195,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "intl_equity",
+      "US_equity"
+    ],
+    "informativeness": 0.7695,
+    "time_horizon": "long_term",
+    "sentiment": "bearish",
+    "key_metrics": {
+      "revenue_growth_pct": 28.38,
+      "pe_ratio": 39.5,
+      "eps_surprise_pct": -1.13
+    }
+  },
+  {
+    "doc_id": 196,
+    "doc_type": "earnings_summary",
+    "relevant_sectors": [
+      "intl_equity",
+      "US_equity"
+    ],
+    "informativeness": 2.2613,
+    "time_horizon": "short_term",
+    "sentiment": "neutral",
+    "key_metrics": {
+      "revenue_growth_pct": 8.29,
+      "pe_ratio": 21.1,
+      "eps_surprise_pct": 7.39
+    }
+  },
+  {
+    "doc_id": 197,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "emerging_markets",
+      "alternatives",
+      "US_equity"
+    ],
+    "informativeness": 0.3846,
+    "time_horizon": "short_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "target_return_pct": 8.16,
+      "confidence_score": 0.63
+    }
+  },
+  {
+    "doc_id": 198,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "emerging_markets",
+      "bonds"
+    ],
+    "informativeness": 1.9834,
+    "time_horizon": "long_term",
+    "sentiment": "bullish",
+    "key_metrics": {
+      "revenue_growth_pct": 12.13,
+      "pe_ratio": 26.6,
+      "eps_surprise_pct": -0.84
+    }
+  },
+  {
+    "doc_id": 199,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity",
+      "emerging_markets",
+      "intl_equity"
+    ],
+    "informativeness": 0.622,
+    "time_horizon": "medium_term",
+    "sentiment": "mixed",
+    "key_metrics": {
+      "revenue_growth_pct": 9.35,
+      "pe_ratio": 8.4,
+      "eps_surprise_pct": -1.05
+    }
+  }
+]

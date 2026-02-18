@@ -1,0 +1,378 @@
+[
+  {
+    "doc_id": 0,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "US_equity"
+    ],
+    "informativeness": 0.6523057924511532,
+    "corpus_type": "independent"
+  },
+  {
+    "doc_id": 1,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "cash"
+    ],
+    "informativeness": 3.1996892238635795,
+    "corpus_type": "independent"
+  },
+  {
+    "doc_id": 2,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "real_estate"
+    ],
+    "informativeness": 1.8372155803071377,
+    "corpus_type": "independent"
+  },
+  {
+    "doc_id": 3,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "alternatives"
+    ],
+    "informativeness": 1.6450704225011006,
+    "corpus_type": "independent"
+  },
+  {
+    "doc_id": 4,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "real_estate"
+    ],
+    "informativeness": 2.885944186937071,
+    "corpus_type": "independent"
+  },
+  {
+    "doc_id": 5,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "emerging_markets"
+    ],
+    "informativeness": 3.5865788741371283,
+    "corpus_type": "independent"
+  },
+  {
+    "doc_id": 6,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "bonds"
+    ],
+    "informativeness": 2.1894860982937416,
+    "corpus_type": "independent"
+  },
+  {
+    "doc_id": 7,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "intl_equity"
+    ],
+    "informativeness": 3.0774135916239214,
+    "corpus_type": "independent"
+  },
+  {
+    "doc_id": 8,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "intl_equity"
+    ],
+    "informativeness": 0.9330877100306261,
+    "corpus_type": "independent"
+  },
+  {
+    "doc_id": 9,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "cash"
+    ],
+    "informativeness": 1.475023886675589,
+    "corpus_type": "independent"
+  },
+  {
+    "doc_id": 10,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "cash"
+    ],
+    "informativeness": 2.4526530610916666,
+    "corpus_type": "independent"
+  },
+  {
+    "doc_id": 11,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "intl_equity"
+    ],
+    "informativeness": 2.2583019704900904,
+    "corpus_type": "independent"
+  },
+  {
+    "doc_id": 12,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "alternatives"
+    ],
+    "informativeness": 1.1951190145039698,
+    "corpus_type": "independent"
+  },
+  {
+    "doc_id": 13,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "commodities"
+    ],
+    "informativeness": 0.8213721908776778,
+    "corpus_type": "independent"
+  },
+  {
+    "doc_id": 14,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "cash"
+    ],
+    "informativeness": 1.5238466941626878,
+    "corpus_type": "independent"
+  },
+  {
+    "doc_id": 15,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "intl_equity"
+    ],
+    "informativeness": 0.8127769330534638,
+    "corpus_type": "independent"
+  },
+  {
+    "doc_id": 16,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "alternatives"
+    ],
+    "informativeness": 2.4708117384547266,
+    "corpus_type": "independent"
+  },
+  {
+    "doc_id": 17,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "bonds"
+    ],
+    "informativeness": 1.9847109285391467,
+    "corpus_type": "independent"
+  },
+  {
+    "doc_id": 18,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "alternatives"
+    ],
+    "informativeness": 3.063790619961148,
+    "corpus_type": "independent"
+  },
+  {
+    "doc_id": 19,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "emerging_markets"
+    ],
+    "informativeness": 2.7057590144461607,
+    "corpus_type": "independent"
+  },
+  {
+    "doc_id": 20,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "cash"
+    ],
+    "informativeness": 2.621715505026624,
+    "corpus_type": "independent"
+  },
+  {
+    "doc_id": 21,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "cash"
+    ],
+    "informativeness": 1.2870989509719077,
+    "corpus_type": "independent"
+  },
+  {
+    "doc_id": 22,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "real_estate"
+    ],
+    "informativeness": 1.3360964041611592,
+    "corpus_type": "independent"
+  },
+  {
+    "doc_id": 23,
+    "doc_type": "market_outlook",
+    "relevant_sectors": [
+      "real_estate"
+    ],
+    "informativeness": 0.7801499816813416,
+    "corpus_type": "independent"
+  },
+  {
+    "doc_id": 24,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity",
+      "intl_equity"
+    ],
+    "informativeness": 0.45086194990415657,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 25,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity",
+      "intl_equity"
+    ],
+    "informativeness": 0.45086194990415657,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 26,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "real_estate",
+      "commodities"
+    ],
+    "informativeness": 3.298441085967977,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 27,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "real_estate",
+      "commodities"
+    ],
+    "informativeness": 3.298441085967977,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 28,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity",
+      "intl_equity"
+    ],
+    "informativeness": 3.5594294204222785,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 29,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity",
+      "intl_equity"
+    ],
+    "informativeness": 3.5594294204222785,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 30,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "real_estate",
+      "commodities"
+    ],
+    "informativeness": 1.361461251374977,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 31,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "real_estate",
+      "commodities"
+    ],
+    "informativeness": 1.361461251374977,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 32,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "real_estate"
+    ],
+    "informativeness": 0.5751830309321668,
+    "corpus_type": "synergistic",
+    "synergy_partner": 33
+  },
+  {
+    "doc_id": 33,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "emerging_markets"
+    ],
+    "informativeness": 0.5751830309321668,
+    "corpus_type": "synergistic",
+    "synergy_partner": 32
+  },
+  {
+    "doc_id": 34,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "bonds"
+    ],
+    "informativeness": 2.7695292922936052,
+    "corpus_type": "synergistic",
+    "synergy_partner": 35
+  },
+  {
+    "doc_id": 35,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "emerging_markets"
+    ],
+    "informativeness": 2.7695292922936052,
+    "corpus_type": "synergistic",
+    "synergy_partner": 34
+  },
+  {
+    "doc_id": 36,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "cash"
+    ],
+    "informativeness": 0.8024373446032297,
+    "corpus_type": "synergistic",
+    "synergy_partner": 37
+  },
+  {
+    "doc_id": 37,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "emerging_markets"
+    ],
+    "informativeness": 0.8024373446032297,
+    "corpus_type": "synergistic",
+    "synergy_partner": 36
+  },
+  {
+    "doc_id": 38,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "bonds"
+    ],
+    "informativeness": 0.5342553530781978,
+    "corpus_type": "synergistic",
+    "synergy_partner": 39
+  },
+  {
+    "doc_id": 39,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "emerging_markets"
+    ],
+    "informativeness": 0.5342553530781978,
+    "corpus_type": "synergistic",
+    "synergy_partner": 38
+  }
+]

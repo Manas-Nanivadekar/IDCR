@@ -1,0 +1,402 @@
+[
+  {
+    "doc_id": 0,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "US_equity"
+    ],
+    "informativeness": 2.0918172704999494,
+    "corpus_type": "synergistic",
+    "synergy_partner": 1
+  },
+  {
+    "doc_id": 1,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "bonds"
+    ],
+    "informativeness": 2.0918172704999494,
+    "corpus_type": "synergistic",
+    "synergy_partner": 0
+  },
+  {
+    "doc_id": 2,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "emerging_markets"
+    ],
+    "informativeness": 2.8353455897858653,
+    "corpus_type": "synergistic",
+    "synergy_partner": 3
+  },
+  {
+    "doc_id": 3,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "commodities"
+    ],
+    "informativeness": 2.8353455897858653,
+    "corpus_type": "synergistic",
+    "synergy_partner": 2
+  },
+  {
+    "doc_id": 4,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "real_estate"
+    ],
+    "informativeness": 1.8372155803071377,
+    "corpus_type": "synergistic",
+    "synergy_partner": 5
+  },
+  {
+    "doc_id": 5,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "alternatives"
+    ],
+    "informativeness": 1.8372155803071377,
+    "corpus_type": "synergistic",
+    "synergy_partner": 4
+  },
+  {
+    "doc_id": 6,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "cash"
+    ],
+    "informativeness": 1.6450704225011006,
+    "corpus_type": "synergistic",
+    "synergy_partner": 7
+  },
+  {
+    "doc_id": 7,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "intl_equity"
+    ],
+    "informativeness": 1.6450704225011006,
+    "corpus_type": "synergistic",
+    "synergy_partner": 6
+  },
+  {
+    "doc_id": 8,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "US_equity"
+    ],
+    "informativeness": 3.0792553295549006,
+    "corpus_type": "synergistic",
+    "synergy_partner": 9
+  },
+  {
+    "doc_id": 9,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "bonds"
+    ],
+    "informativeness": 3.0792553295549006,
+    "corpus_type": "synergistic",
+    "synergy_partner": 8
+  },
+  {
+    "doc_id": 10,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "emerging_markets"
+    ],
+    "informativeness": 1.7533735410905071,
+    "corpus_type": "synergistic",
+    "synergy_partner": 11
+  },
+  {
+    "doc_id": 11,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "commodities"
+    ],
+    "informativeness": 1.7533735410905071,
+    "corpus_type": "synergistic",
+    "synergy_partner": 10
+  },
+  {
+    "doc_id": 12,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "real_estate"
+    ],
+    "informativeness": 2.3460050789740476,
+    "corpus_type": "synergistic",
+    "synergy_partner": 13
+  },
+  {
+    "doc_id": 13,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "alternatives"
+    ],
+    "informativeness": 2.3460050789740476,
+    "corpus_type": "synergistic",
+    "synergy_partner": 12
+  },
+  {
+    "doc_id": 14,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "cash"
+    ],
+    "informativeness": 2.1894860982937416,
+    "corpus_type": "synergistic",
+    "synergy_partner": 15
+  },
+  {
+    "doc_id": 15,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "intl_equity"
+    ],
+    "informativeness": 2.1894860982937416,
+    "corpus_type": "synergistic",
+    "synergy_partner": 14
+  },
+  {
+    "doc_id": 16,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "US_equity"
+    ],
+    "informativeness": 3.0774135916239214,
+    "corpus_type": "synergistic",
+    "synergy_partner": 17
+  },
+  {
+    "doc_id": 17,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "bonds"
+    ],
+    "informativeness": 3.0774135916239214,
+    "corpus_type": "synergistic",
+    "synergy_partner": 16
+  },
+  {
+    "doc_id": 18,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "emerging_markets"
+    ],
+    "informativeness": 1.4392205046527053,
+    "corpus_type": "synergistic",
+    "synergy_partner": 19
+  },
+  {
+    "doc_id": 19,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "commodities"
+    ],
+    "informativeness": 1.4392205046527053,
+    "corpus_type": "synergistic",
+    "synergy_partner": 18
+  },
+  {
+    "doc_id": 20,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "real_estate"
+    ],
+    "informativeness": 3.795583854166355,
+    "corpus_type": "synergistic",
+    "synergy_partner": 21
+  },
+  {
+    "doc_id": 21,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "alternatives"
+    ],
+    "informativeness": 3.795583854166355,
+    "corpus_type": "synergistic",
+    "synergy_partner": 20
+  },
+  {
+    "doc_id": 22,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "cash"
+    ],
+    "informativeness": 1.172598283198885,
+    "corpus_type": "synergistic",
+    "synergy_partner": 23
+  },
+  {
+    "doc_id": 23,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "intl_equity"
+    ],
+    "informativeness": 1.172598283198885,
+    "corpus_type": "synergistic",
+    "synergy_partner": 22
+  },
+  {
+    "doc_id": 24,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "US_equity"
+    ],
+    "informativeness": 2.4526530610916666,
+    "corpus_type": "synergistic",
+    "synergy_partner": 25
+  },
+  {
+    "doc_id": 25,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "bonds"
+    ],
+    "informativeness": 2.4526530610916666,
+    "corpus_type": "synergistic",
+    "synergy_partner": 24
+  },
+  {
+    "doc_id": 26,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "emerging_markets"
+    ],
+    "informativeness": 2.2583019704900904,
+    "corpus_type": "synergistic",
+    "synergy_partner": 27
+  },
+  {
+    "doc_id": 27,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "commodities"
+    ],
+    "informativeness": 2.2583019704900904,
+    "corpus_type": "synergistic",
+    "synergy_partner": 26
+  },
+  {
+    "doc_id": 28,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "real_estate"
+    ],
+    "informativeness": 1.0889723316048567,
+    "corpus_type": "synergistic",
+    "synergy_partner": 29
+  },
+  {
+    "doc_id": 29,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "alternatives"
+    ],
+    "informativeness": 1.0889723316048567,
+    "corpus_type": "synergistic",
+    "synergy_partner": 28
+  },
+  {
+    "doc_id": 30,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "cash"
+    ],
+    "informativeness": 2.595074745271101,
+    "corpus_type": "synergistic",
+    "synergy_partner": 31
+  },
+  {
+    "doc_id": 31,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "intl_equity"
+    ],
+    "informativeness": 2.595074745271101,
+    "corpus_type": "synergistic",
+    "synergy_partner": 30
+  },
+  {
+    "doc_id": 32,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "US_equity"
+    ],
+    "informativeness": 1.5238466941626878,
+    "corpus_type": "synergistic",
+    "synergy_partner": 33
+  },
+  {
+    "doc_id": 33,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "bonds"
+    ],
+    "informativeness": 1.5238466941626878,
+    "corpus_type": "synergistic",
+    "synergy_partner": 32
+  },
+  {
+    "doc_id": 34,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "emerging_markets"
+    ],
+    "informativeness": 0.8127769330534638,
+    "corpus_type": "synergistic",
+    "synergy_partner": 35
+  },
+  {
+    "doc_id": 35,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "commodities"
+    ],
+    "informativeness": 0.8127769330534638,
+    "corpus_type": "synergistic",
+    "synergy_partner": 34
+  },
+  {
+    "doc_id": 36,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "real_estate"
+    ],
+    "informativeness": 2.822125350557911,
+    "corpus_type": "synergistic",
+    "synergy_partner": 37
+  },
+  {
+    "doc_id": 37,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "alternatives"
+    ],
+    "informativeness": 2.822125350557911,
+    "corpus_type": "synergistic",
+    "synergy_partner": 36
+  },
+  {
+    "doc_id": 38,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "cash"
+    ],
+    "informativeness": 0.5658036582831673,
+    "corpus_type": "synergistic",
+    "synergy_partner": 39
+  },
+  {
+    "doc_id": 39,
+    "doc_type": "macro_analysis",
+    "relevant_sectors": [
+      "intl_equity"
+    ],
+    "informativeness": 0.5658036582831673,
+    "corpus_type": "synergistic",
+    "synergy_partner": 38
+  }
+]

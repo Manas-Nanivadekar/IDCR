@@ -1,0 +1,6427 @@
+[
+  {
+    "user_id": 1000,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.4666,
+    "investment_horizon_months": 48,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.38,
+      "excluded_sectors": [
+        "REITs"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.3266,
+      "intl_equity": 0.1359,
+      "emerging_markets": 0.1195,
+      "bonds": 0.0812,
+      "real_estate": 0.0827,
+      "commodities": 0.1298,
+      "cash": 0.0465,
+      "alternatives": 0.0779
+    },
+    "demographic": {
+      "age": 48,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1001,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.745,
+    "investment_horizon_months": 49,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.44,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.1116,
+      "intl_equity": 0.241,
+      "emerging_markets": 0.0409,
+      "bonds": 0.0623,
+      "real_estate": 0.15,
+      "commodities": 0.0095,
+      "cash": 0.1209,
+      "alternatives": 0.2638
+    },
+    "demographic": {
+      "age": 43,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1002,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.4054,
+    "investment_horizon_months": 85,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.35,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.309,
+      "intl_equity": 0.1104,
+      "emerging_markets": 0.0333,
+      "bonds": 0.2161,
+      "real_estate": 0.1086,
+      "commodities": 0.0155,
+      "cash": 0.0437,
+      "alternatives": 0.1635
+    },
+    "demographic": {
+      "age": 39,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1003,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.626,
+    "investment_horizon_months": 100,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.49,
+      "excluded_sectors": [
+        "REITs",
+        "healthcare"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1002,
+      "intl_equity": 0.0629,
+      "emerging_markets": 0.1996,
+      "bonds": 0.1963,
+      "real_estate": 0.1821,
+      "commodities": 0.0688,
+      "cash": 0.1149,
+      "alternatives": 0.0751
+    },
+    "demographic": {
+      "age": 50,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1004,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.9121,
+    "investment_horizon_months": 3,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets",
+      "healthcare"
+    ],
+    "constraints": {
+      "max_single_sector": 0.39,
+      "excluded_sectors": [
+        "clean_energy",
+        "alternatives"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.2244,
+      "intl_equity": 0.1989,
+      "emerging_markets": 0.1023,
+      "bonds": 0.0309,
+      "real_estate": 0.0912,
+      "commodities": 0.0267,
+      "cash": 0.2305,
+      "alternatives": 0.0952
+    },
+    "demographic": {
+      "age": 23,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1005,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.1311,
+    "investment_horizon_months": 55,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.26,
+      "excluded_sectors": [
+        "growth",
+        "crypto"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1131,
+      "intl_equity": 0.0072,
+      "emerging_markets": 0.0282,
+      "bonds": 0.4745,
+      "real_estate": 0.0861,
+      "commodities": 0.035,
+      "cash": 0.2125,
+      "alternatives": 0.0434
+    },
+    "demographic": {
+      "age": 65,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1006,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.3691,
+    "investment_horizon_months": 16,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.46,
+      "excluded_sectors": [
+        "US_equity"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0146,
+      "intl_equity": 0.0314,
+      "emerging_markets": 0.0171,
+      "bonds": 0.3776,
+      "real_estate": 0.0558,
+      "commodities": 0.1102,
+      "cash": 0.2914,
+      "alternatives": 0.1019
+    },
+    "demographic": {
+      "age": 45,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1007,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.3754,
+    "investment_horizon_months": 41,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.36,
+      "excluded_sectors": [
+        "clean_energy"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1075,
+      "intl_equity": 0.0007,
+      "emerging_markets": 0.0444,
+      "bonds": 0.2318,
+      "real_estate": 0.3828,
+      "commodities": 0.0002,
+      "cash": 0.116,
+      "alternatives": 0.1167
+    },
+    "demographic": {
+      "age": 56,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1008,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.8895,
+    "investment_horizon_months": 2,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.34,
+      "excluded_sectors": [
+        "alternatives"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.3035,
+      "intl_equity": 0.2105,
+      "emerging_markets": 0.1969,
+      "bonds": 0.0317,
+      "real_estate": 0.0888,
+      "commodities": 0.0118,
+      "cash": 0.007,
+      "alternatives": 0.1497
+    },
+    "demographic": {
+      "age": 35,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1009,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.2313,
+    "investment_horizon_months": 60,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.36,
+      "excluded_sectors": [
+        "crypto"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0488,
+      "intl_equity": 0.0356,
+      "emerging_markets": 0.0316,
+      "bonds": 0.5905,
+      "real_estate": 0.1483,
+      "commodities": 0.0038,
+      "cash": 0.0272,
+      "alternatives": 0.1141
+    },
+    "demographic": {
+      "age": 58,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1010,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.9945,
+    "investment_horizon_months": 1,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.46,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.2309,
+      "intl_equity": 0.0703,
+      "emerging_markets": 0.3046,
+      "bonds": 0.0004,
+      "real_estate": 0.0233,
+      "commodities": 0.191,
+      "cash": 0.0029,
+      "alternatives": 0.1767
+    },
+    "demographic": {
+      "age": 30,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1011,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.1303,
+    "investment_horizon_months": 9,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.27,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.0915,
+      "intl_equity": 0.0893,
+      "emerging_markets": 0.0087,
+      "bonds": 0.3617,
+      "real_estate": 0.07,
+      "commodities": 0.0026,
+      "cash": 0.3388,
+      "alternatives": 0.0373
+    },
+    "demographic": {
+      "age": 73,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1012,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.5291,
+    "investment_horizon_months": 74,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.41,
+      "excluded_sectors": [
+        "growth"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.2196,
+      "intl_equity": 0.1393,
+      "emerging_markets": 0.1203,
+      "bonds": 0.1773,
+      "real_estate": 0.1185,
+      "commodities": 0.0782,
+      "cash": 0.0604,
+      "alternatives": 0.0863
+    },
+    "demographic": {
+      "age": 36,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1013,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.1792,
+    "investment_horizon_months": 21,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities",
+      "US_equity"
+    ],
+    "constraints": {
+      "max_single_sector": 0.47,
+      "excluded_sectors": [
+        "US_equity",
+        "healthcare"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.109,
+      "intl_equity": 0.0355,
+      "emerging_markets": 0.0057,
+      "bonds": 0.2376,
+      "real_estate": 0.1102,
+      "commodities": 0.1928,
+      "cash": 0.2017,
+      "alternatives": 0.1075
+    },
+    "demographic": {
+      "age": 43,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1014,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.6055,
+    "investment_horizon_months": 60,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.44,
+      "excluded_sectors": [
+        "growth"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.3043,
+      "intl_equity": 0.193,
+      "emerging_markets": 0.0771,
+      "bonds": 0.0675,
+      "real_estate": 0.0731,
+      "commodities": 0.0461,
+      "cash": 0.0515,
+      "alternatives": 0.1874
+    },
+    "demographic": {
+      "age": 40,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1015,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.5239,
+    "investment_horizon_months": 79,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.41,
+      "excluded_sectors": [
+        "cash"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0966,
+      "intl_equity": 0.1008,
+      "emerging_markets": 0.0753,
+      "bonds": 0.2731,
+      "real_estate": 0.165,
+      "commodities": 0.1084,
+      "cash": 0.0267,
+      "alternatives": 0.1542
+    },
+    "demographic": {
+      "age": 47,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1016,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.7908,
+    "investment_horizon_months": 5,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.49,
+      "excluded_sectors": [
+        "real_estate",
+        "bonds"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.5518,
+      "intl_equity": 0.0538,
+      "emerging_markets": 0.146,
+      "bonds": 0.0195,
+      "real_estate": 0.0097,
+      "commodities": 0.0007,
+      "cash": 0.0379,
+      "alternatives": 0.1806
+    },
+    "demographic": {
+      "age": 28,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1017,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.4006,
+    "investment_horizon_months": 112,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.3,
+      "excluded_sectors": [
+        "emerging_markets"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1192,
+      "intl_equity": 0.2555,
+      "emerging_markets": 0.1352,
+      "bonds": 0.1345,
+      "real_estate": 0.0396,
+      "commodities": 0.2105,
+      "cash": 0.0125,
+      "alternatives": 0.0931
+    },
+    "demographic": {
+      "age": 37,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1018,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.8389,
+    "investment_horizon_months": 3,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.27,
+      "excluded_sectors": [
+        "dividends"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.2596,
+      "intl_equity": 0.1323,
+      "emerging_markets": 0.3457,
+      "bonds": 0.0169,
+      "real_estate": 0.0,
+      "commodities": 0.0568,
+      "cash": 0.0045,
+      "alternatives": 0.1841
+    },
+    "demographic": {
+      "age": 32,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1019,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.6814,
+    "investment_horizon_months": 51,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.28,
+      "excluded_sectors": [
+        "REITs",
+        "crypto"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1365,
+      "intl_equity": 0.2949,
+      "emerging_markets": 0.025,
+      "bonds": 0.1597,
+      "real_estate": 0.0164,
+      "commodities": 0.0588,
+      "cash": 0.0386,
+      "alternatives": 0.2701
+    },
+    "demographic": {
+      "age": 45,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1020,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.1119,
+    "investment_horizon_months": 48,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.3,
+      "excluded_sectors": [
+        "intl_equity",
+        "technology"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1598,
+      "intl_equity": 0.0198,
+      "emerging_markets": 0.0017,
+      "bonds": 0.4951,
+      "real_estate": 0.1297,
+      "commodities": 0.0106,
+      "cash": 0.1279,
+      "alternatives": 0.0554
+    },
+    "demographic": {
+      "age": 44,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1021,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.1631,
+    "investment_horizon_months": 11,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.49,
+      "excluded_sectors": [
+        "crypto",
+        "dividends"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1483,
+      "intl_equity": 0.0422,
+      "emerging_markets": 0.0247,
+      "bonds": 0.4922,
+      "real_estate": 0.0293,
+      "commodities": 0.0255,
+      "cash": 0.1596,
+      "alternatives": 0.0782
+    },
+    "demographic": {
+      "age": 72,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1022,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.7535,
+    "investment_horizon_months": 1,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.37,
+      "excluded_sectors": [
+        "utilities",
+        "dividends"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.4071,
+      "intl_equity": 0.1565,
+      "emerging_markets": 0.1412,
+      "bonds": 0.0018,
+      "real_estate": 0.0025,
+      "commodities": 0.0266,
+      "cash": 0.039,
+      "alternatives": 0.2253
+    },
+    "demographic": {
+      "age": 35,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1023,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.4858,
+    "investment_horizon_months": 24,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.48,
+      "excluded_sectors": [
+        "alternatives"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0506,
+      "intl_equity": 0.0121,
+      "emerging_markets": 0.0035,
+      "bonds": 0.5058,
+      "real_estate": 0.0798,
+      "commodities": 0.0,
+      "cash": 0.2901,
+      "alternatives": 0.058
+    },
+    "demographic": {
+      "age": 61,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1024,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.3175,
+    "investment_horizon_months": 39,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.37,
+      "excluded_sectors": [
+        "clean_energy",
+        "growth"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1063,
+      "intl_equity": 0.0499,
+      "emerging_markets": 0.0031,
+      "bonds": 0.3342,
+      "real_estate": 0.1365,
+      "commodities": 0.0,
+      "cash": 0.1944,
+      "alternatives": 0.1755
+    },
+    "demographic": {
+      "age": 47,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1025,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.8795,
+    "investment_horizon_months": 2,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.36,
+      "excluded_sectors": [
+        "dividends",
+        "clean_energy"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1352,
+      "intl_equity": 0.1124,
+      "emerging_markets": 0.1769,
+      "bonds": 0.0556,
+      "real_estate": 0.0623,
+      "commodities": 0.0167,
+      "cash": 0.0966,
+      "alternatives": 0.3443
+    },
+    "demographic": {
+      "age": 24,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1026,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.3496,
+    "investment_horizon_months": 32,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.35,
+      "excluded_sectors": [
+        "clean_energy",
+        "cash"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0195,
+      "intl_equity": 0.0428,
+      "emerging_markets": 0.0038,
+      "bonds": 0.1929,
+      "real_estate": 0.2084,
+      "commodities": 0.0066,
+      "cash": 0.073,
+      "alternatives": 0.453
+    },
+    "demographic": {
+      "age": 42,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1027,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.209,
+    "investment_horizon_months": 23,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.36,
+      "excluded_sectors": [
+        "technology"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0222,
+      "intl_equity": 0.0041,
+      "emerging_markets": 0.027,
+      "bonds": 0.5023,
+      "real_estate": 0.0234,
+      "commodities": 0.0606,
+      "cash": 0.3051,
+      "alternatives": 0.0552
+    },
+    "demographic": {
+      "age": 80,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1028,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.4335,
+    "investment_horizon_months": 104,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.3,
+      "excluded_sectors": [
+        "crypto"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1819,
+      "intl_equity": 0.0779,
+      "emerging_markets": 0.0288,
+      "bonds": 0.0944,
+      "real_estate": 0.1783,
+      "commodities": 0.2393,
+      "cash": 0.0144,
+      "alternatives": 0.185
+    },
+    "demographic": {
+      "age": 44,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1029,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.9602,
+    "investment_horizon_months": 3,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.25,
+      "excluded_sectors": [
+        "alternatives"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.314,
+      "intl_equity": 0.2101,
+      "emerging_markets": 0.1824,
+      "bonds": 0.0025,
+      "real_estate": 0.1079,
+      "commodities": 0.0774,
+      "cash": 0.015,
+      "alternatives": 0.0907
+    },
+    "demographic": {
+      "age": 25,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1030,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.8598,
+    "investment_horizon_months": 6,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.45,
+      "excluded_sectors": [
+        "cash"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.2929,
+      "intl_equity": 0.3845,
+      "emerging_markets": 0.0466,
+      "bonds": 0.0277,
+      "real_estate": 0.1027,
+      "commodities": 0.0313,
+      "cash": 0.0538,
+      "alternatives": 0.0606
+    },
+    "demographic": {
+      "age": 38,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1031,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.3819,
+    "investment_horizon_months": 40,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.35,
+      "excluded_sectors": [
+        "emerging_markets",
+        "intl_equity"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1173,
+      "intl_equity": 0.238,
+      "emerging_markets": 0.1337,
+      "bonds": 0.2416,
+      "real_estate": 0.0272,
+      "commodities": 0.0048,
+      "cash": 0.1089,
+      "alternatives": 0.1285
+    },
+    "demographic": {
+      "age": 38,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1032,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.6007,
+    "investment_horizon_months": 57,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.32,
+      "excluded_sectors": [
+        "cash"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.103,
+      "intl_equity": 0.1833,
+      "emerging_markets": 0.1157,
+      "bonds": 0.1418,
+      "real_estate": 0.0313,
+      "commodities": 0.0906,
+      "cash": 0.0828,
+      "alternatives": 0.2514
+    },
+    "demographic": {
+      "age": 38,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1033,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.3995,
+    "investment_horizon_months": 41,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities",
+      "growth"
+    ],
+    "constraints": {
+      "max_single_sector": 0.43,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.1455,
+      "intl_equity": 0.0328,
+      "emerging_markets": 0.0174,
+      "bonds": 0.3648,
+      "real_estate": 0.1378,
+      "commodities": 0.0144,
+      "cash": 0.1935,
+      "alternatives": 0.0937
+    },
+    "demographic": {
+      "age": 44,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1034,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.2372,
+    "investment_horizon_months": 23,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.34,
+      "excluded_sectors": [
+        "US_equity"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0379,
+      "intl_equity": 0.0039,
+      "emerging_markets": 0.0374,
+      "bonds": 0.5942,
+      "real_estate": 0.0218,
+      "commodities": 0.0099,
+      "cash": 0.2623,
+      "alternatives": 0.0327
+    },
+    "demographic": {
+      "age": 55,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1035,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.8858,
+    "investment_horizon_months": 3,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.47,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.2437,
+      "intl_equity": 0.1232,
+      "emerging_markets": 0.2321,
+      "bonds": 0.0363,
+      "real_estate": 0.0232,
+      "commodities": 0.1292,
+      "cash": 0.0135,
+      "alternatives": 0.1986
+    },
+    "demographic": {
+      "age": 26,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1036,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.4182,
+    "investment_horizon_months": 103,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.33,
+      "excluded_sectors": [
+        "utilities",
+        "healthcare"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.2141,
+      "intl_equity": 0.2072,
+      "emerging_markets": 0.0407,
+      "bonds": 0.0778,
+      "real_estate": 0.0505,
+      "commodities": 0.2336,
+      "cash": 0.0223,
+      "alternatives": 0.1538
+    },
+    "demographic": {
+      "age": 32,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1037,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.825,
+    "investment_horizon_months": 1,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.43,
+      "excluded_sectors": [
+        "utilities",
+        "clean_energy"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.3876,
+      "intl_equity": 0.1866,
+      "emerging_markets": 0.1457,
+      "bonds": 0.0,
+      "real_estate": 0.0055,
+      "commodities": 0.0418,
+      "cash": 0.0032,
+      "alternatives": 0.2296
+    },
+    "demographic": {
+      "age": 25,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1038,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.3412,
+    "investment_horizon_months": 40,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.5,
+      "excluded_sectors": [
+        "US_equity"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.2692,
+      "intl_equity": 0.0504,
+      "emerging_markets": 0.1356,
+      "bonds": 0.2121,
+      "real_estate": 0.0067,
+      "commodities": 0.0079,
+      "cash": 0.1418,
+      "alternatives": 0.1763
+    },
+    "demographic": {
+      "age": 39,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1039,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.7409,
+    "investment_horizon_months": 59,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.43,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.132,
+      "intl_equity": 0.1588,
+      "emerging_markets": 0.1783,
+      "bonds": 0.0712,
+      "real_estate": 0.024,
+      "commodities": 0.0937,
+      "cash": 0.0754,
+      "alternatives": 0.2665
+    },
+    "demographic": {
+      "age": 34,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1040,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.1261,
+    "investment_horizon_months": 9,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.38,
+      "excluded_sectors": [
+        "US_equity"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0932,
+      "intl_equity": 0.0062,
+      "emerging_markets": 0.0388,
+      "bonds": 0.3738,
+      "real_estate": 0.0389,
+      "commodities": 0.018,
+      "cash": 0.4234,
+      "alternatives": 0.0075
+    },
+    "demographic": {
+      "age": 63,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1041,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.4608,
+    "investment_horizon_months": 46,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.28,
+      "excluded_sectors": [
+        "growth",
+        "real_estate"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.14,
+      "intl_equity": 0.0126,
+      "emerging_markets": 0.0077,
+      "bonds": 0.4162,
+      "real_estate": 0.1179,
+      "commodities": 0.0235,
+      "cash": 0.1647,
+      "alternatives": 0.1175
+    },
+    "demographic": {
+      "age": 46,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1042,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.8789,
+    "investment_horizon_months": 5,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.26,
+      "excluded_sectors": [
+        "clean_energy"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1716,
+      "intl_equity": 0.1171,
+      "emerging_markets": 0.223,
+      "bonds": 0.0058,
+      "real_estate": 0.0054,
+      "commodities": 0.0812,
+      "cash": 0.0048,
+      "alternatives": 0.3911
+    },
+    "demographic": {
+      "age": 37,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1043,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.0913,
+    "investment_horizon_months": 15,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash",
+      "clean_energy"
+    ],
+    "constraints": {
+      "max_single_sector": 0.45,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.0348,
+      "intl_equity": 0.0662,
+      "emerging_markets": 0.007,
+      "bonds": 0.4693,
+      "real_estate": 0.0674,
+      "commodities": 0.0011,
+      "cash": 0.2886,
+      "alternatives": 0.0655
+    },
+    "demographic": {
+      "age": 65,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1044,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.28,
+    "investment_horizon_months": 14,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.32,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.0093,
+      "intl_equity": 0.0536,
+      "emerging_markets": 0.0053,
+      "bonds": 0.4642,
+      "real_estate": 0.2812,
+      "commodities": 0.0003,
+      "cash": 0.1725,
+      "alternatives": 0.0136
+    },
+    "demographic": {
+      "age": 75,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1045,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.405,
+    "investment_horizon_months": 38,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology",
+      "bonds"
+    ],
+    "constraints": {
+      "max_single_sector": 0.48,
+      "excluded_sectors": [
+        "growth"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1294,
+      "intl_equity": 0.194,
+      "emerging_markets": 0.132,
+      "bonds": 0.0565,
+      "real_estate": 0.0722,
+      "commodities": 0.0415,
+      "cash": 0.0978,
+      "alternatives": 0.2766
+    },
+    "demographic": {
+      "age": 45,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1046,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.7787,
+    "investment_horizon_months": 32,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.31,
+      "excluded_sectors": [
+        "US_equity"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0955,
+      "intl_equity": 0.1781,
+      "emerging_markets": 0.0539,
+      "bonds": 0.1579,
+      "real_estate": 0.0509,
+      "commodities": 0.196,
+      "cash": 0.0894,
+      "alternatives": 0.1783
+    },
+    "demographic": {
+      "age": 43,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1047,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.607,
+    "investment_horizon_months": 29,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.34,
+      "excluded_sectors": [
+        "cash",
+        "crypto"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.2898,
+      "intl_equity": 0.0457,
+      "emerging_markets": 0.1629,
+      "bonds": 0.0865,
+      "real_estate": 0.0774,
+      "commodities": 0.0357,
+      "cash": 0.1646,
+      "alternatives": 0.1373
+    },
+    "demographic": {
+      "age": 45,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1048,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.829,
+    "investment_horizon_months": 1,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.33,
+      "excluded_sectors": [
+        "REITs",
+        "cash"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.2113,
+      "intl_equity": 0.156,
+      "emerging_markets": 0.2395,
+      "bonds": 0.0131,
+      "real_estate": 0.0085,
+      "commodities": 0.0805,
+      "cash": 0.0635,
+      "alternatives": 0.2275
+    },
+    "demographic": {
+      "age": 33,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1049,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.2424,
+    "investment_horizon_months": 8,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.45,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.047,
+      "intl_equity": 0.0229,
+      "emerging_markets": 0.0007,
+      "bonds": 0.4284,
+      "real_estate": 0.094,
+      "commodities": 0.0062,
+      "cash": 0.2879,
+      "alternatives": 0.1128
+    },
+    "demographic": {
+      "age": 56,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1050,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.1601,
+    "investment_horizon_months": 10,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash",
+      "US_equity"
+    ],
+    "constraints": {
+      "max_single_sector": 0.42,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.0217,
+      "intl_equity": 0.0846,
+      "emerging_markets": 0.0014,
+      "bonds": 0.323,
+      "real_estate": 0.0479,
+      "commodities": 0.0184,
+      "cash": 0.4882,
+      "alternatives": 0.0147
+    },
+    "demographic": {
+      "age": 67,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1051,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.3041,
+    "investment_horizon_months": 20,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.46,
+      "excluded_sectors": [
+        "clean_energy",
+        "real_estate"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1717,
+      "intl_equity": 0.0477,
+      "emerging_markets": 0.0,
+      "bonds": 0.2381,
+      "real_estate": 0.0025,
+      "commodities": 0.005,
+      "cash": 0.3786,
+      "alternatives": 0.1564
+    },
+    "demographic": {
+      "age": 67,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1052,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.8785,
+    "investment_horizon_months": 2,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets",
+      "US_equity"
+    ],
+    "constraints": {
+      "max_single_sector": 0.44,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.3966,
+      "intl_equity": 0.1255,
+      "emerging_markets": 0.1464,
+      "bonds": 0.0014,
+      "real_estate": 0.0317,
+      "commodities": 0.0605,
+      "cash": 0.0477,
+      "alternatives": 0.1903
+    },
+    "demographic": {
+      "age": 29,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1053,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.8623,
+    "investment_horizon_months": 30,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.28,
+      "excluded_sectors": [
+        "real_estate"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1986,
+      "intl_equity": 0.082,
+      "emerging_markets": 0.064,
+      "bonds": 0.0964,
+      "real_estate": 0.0732,
+      "commodities": 0.0052,
+      "cash": 0.0671,
+      "alternatives": 0.4134
+    },
+    "demographic": {
+      "age": 45,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1054,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.8345,
+    "investment_horizon_months": 81,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.28,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.0866,
+      "intl_equity": 0.1214,
+      "emerging_markets": 0.0266,
+      "bonds": 0.4603,
+      "real_estate": 0.0787,
+      "commodities": 0.1677,
+      "cash": 0.0108,
+      "alternatives": 0.0479
+    },
+    "demographic": {
+      "age": 55,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1055,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.5704,
+    "investment_horizon_months": 32,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.45,
+      "excluded_sectors": [
+        "cash"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0843,
+      "intl_equity": 0.031,
+      "emerging_markets": 0.0469,
+      "bonds": 0.2557,
+      "real_estate": 0.2423,
+      "commodities": 0.033,
+      "cash": 0.2434,
+      "alternatives": 0.0634
+    },
+    "demographic": {
+      "age": 60,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1056,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.7795,
+    "investment_horizon_months": 35,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.48,
+      "excluded_sectors": [
+        "cash"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.115,
+      "intl_equity": 0.2281,
+      "emerging_markets": 0.0483,
+      "bonds": 0.0778,
+      "real_estate": 0.1221,
+      "commodities": 0.0184,
+      "cash": 0.054,
+      "alternatives": 0.3364
+    },
+    "demographic": {
+      "age": 37,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1057,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.3425,
+    "investment_horizon_months": 15,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.47,
+      "excluded_sectors": [
+        "alternatives"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0134,
+      "intl_equity": 0.1017,
+      "emerging_markets": 0.0028,
+      "bonds": 0.2915,
+      "real_estate": 0.0079,
+      "commodities": 0.0418,
+      "cash": 0.29,
+      "alternatives": 0.2509
+    },
+    "demographic": {
+      "age": 77,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1058,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.1917,
+    "investment_horizon_months": 22,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.26,
+      "excluded_sectors": [
+        "intl_equity",
+        "dividends"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0486,
+      "intl_equity": 0.0657,
+      "emerging_markets": 0.0092,
+      "bonds": 0.4712,
+      "real_estate": 0.0365,
+      "commodities": 0.0656,
+      "cash": 0.1969,
+      "alternatives": 0.1064
+    },
+    "demographic": {
+      "age": 68,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1059,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.3576,
+    "investment_horizon_months": 9,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash",
+      "dividends"
+    ],
+    "constraints": {
+      "max_single_sector": 0.31,
+      "excluded_sectors": [
+        "dividends",
+        "real_estate"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0027,
+      "intl_equity": 0.0016,
+      "emerging_markets": 0.0002,
+      "bonds": 0.4449,
+      "real_estate": 0.2432,
+      "commodities": 0.003,
+      "cash": 0.2633,
+      "alternatives": 0.0411
+    },
+    "demographic": {
+      "age": 56,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1060,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.9739,
+    "investment_horizon_months": 6,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets",
+      "real_estate"
+    ],
+    "constraints": {
+      "max_single_sector": 0.3,
+      "excluded_sectors": [
+        "US_equity"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.3866,
+      "intl_equity": 0.1294,
+      "emerging_markets": 0.0618,
+      "bonds": 0.0184,
+      "real_estate": 0.0087,
+      "commodities": 0.05,
+      "cash": 0.0594,
+      "alternatives": 0.2859
+    },
+    "demographic": {
+      "age": 37,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1061,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.416,
+    "investment_horizon_months": 36,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.43,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.0807,
+      "intl_equity": 0.0323,
+      "emerging_markets": 0.0309,
+      "bonds": 0.3948,
+      "real_estate": 0.1557,
+      "commodities": 0.0014,
+      "cash": 0.0623,
+      "alternatives": 0.2419
+    },
+    "demographic": {
+      "age": 62,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1062,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.0565,
+    "investment_horizon_months": 39,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.39,
+      "excluded_sectors": [
+        "clean_energy"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.018,
+      "intl_equity": 0.0576,
+      "emerging_markets": 0.0057,
+      "bonds": 0.5381,
+      "real_estate": 0.2285,
+      "commodities": 0.0136,
+      "cash": 0.0522,
+      "alternatives": 0.0863
+    },
+    "demographic": {
+      "age": 54,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1063,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.5392,
+    "investment_horizon_months": 59,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.31,
+      "excluded_sectors": [
+        "alternatives"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.2472,
+      "intl_equity": 0.3221,
+      "emerging_markets": 0.0222,
+      "bonds": 0.0579,
+      "real_estate": 0.0194,
+      "commodities": 0.0218,
+      "cash": 0.0623,
+      "alternatives": 0.247
+    },
+    "demographic": {
+      "age": 37,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1064,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.1151,
+    "investment_horizon_months": 21,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.35,
+      "excluded_sectors": [
+        "REITs"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0748,
+      "intl_equity": 0.0136,
+      "emerging_markets": 0.0003,
+      "bonds": 0.4863,
+      "real_estate": 0.0188,
+      "commodities": 0.0349,
+      "cash": 0.301,
+      "alternatives": 0.0702
+    },
+    "demographic": {
+      "age": 67,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1065,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.7272,
+    "investment_horizon_months": 6,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.47,
+      "excluded_sectors": [
+        "alternatives"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.345,
+      "intl_equity": 0.0597,
+      "emerging_markets": 0.215,
+      "bonds": 0.0214,
+      "real_estate": 0.0542,
+      "commodities": 0.0431,
+      "cash": 0.0153,
+      "alternatives": 0.2463
+    },
+    "demographic": {
+      "age": 26,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1066,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.8597,
+    "investment_horizon_months": 3,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.37,
+      "excluded_sectors": [
+        "real_estate",
+        "US_equity"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.5162,
+      "intl_equity": 0.0865,
+      "emerging_markets": 0.1355,
+      "bonds": 0.001,
+      "real_estate": 0.0174,
+      "commodities": 0.038,
+      "cash": 0.0272,
+      "alternatives": 0.1783
+    },
+    "demographic": {
+      "age": 29,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1067,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.737,
+    "investment_horizon_months": 40,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.38,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.2961,
+      "intl_equity": 0.0246,
+      "emerging_markets": 0.1551,
+      "bonds": 0.1389,
+      "real_estate": 0.0057,
+      "commodities": 0.1038,
+      "cash": 0.1579,
+      "alternatives": 0.118
+    },
+    "demographic": {
+      "age": 36,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1068,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.1219,
+    "investment_horizon_months": 14,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash",
+      "clean_energy"
+    ],
+    "constraints": {
+      "max_single_sector": 0.36,
+      "excluded_sectors": [
+        "US_equity",
+        "emerging_markets"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.2518,
+      "intl_equity": 0.1184,
+      "emerging_markets": 0.0019,
+      "bonds": 0.1691,
+      "real_estate": 0.0083,
+      "commodities": 0.1589,
+      "cash": 0.2837,
+      "alternatives": 0.008
+    },
+    "demographic": {
+      "age": 61,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1069,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.7662,
+    "investment_horizon_months": 27,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.32,
+      "excluded_sectors": [
+        "bonds",
+        "crypto"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1488,
+      "intl_equity": 0.0576,
+      "emerging_markets": 0.1666,
+      "bonds": 0.1357,
+      "real_estate": 0.0112,
+      "commodities": 0.0543,
+      "cash": 0.3346,
+      "alternatives": 0.0914
+    },
+    "demographic": {
+      "age": 32,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1070,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.3027,
+    "investment_horizon_months": 60,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology",
+      "real_estate"
+    ],
+    "constraints": {
+      "max_single_sector": 0.44,
+      "excluded_sectors": [
+        "commodities"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.2054,
+      "intl_equity": 0.1177,
+      "emerging_markets": 0.075,
+      "bonds": 0.1857,
+      "real_estate": 0.0012,
+      "commodities": 0.0431,
+      "cash": 0.1979,
+      "alternatives": 0.174
+    },
+    "demographic": {
+      "age": 39,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1071,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.173,
+    "investment_horizon_months": 34,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.43,
+      "excluded_sectors": [
+        "healthcare"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0663,
+      "intl_equity": 0.0272,
+      "emerging_markets": 0.0014,
+      "bonds": 0.2006,
+      "real_estate": 0.2747,
+      "commodities": 0.0577,
+      "cash": 0.2724,
+      "alternatives": 0.0997
+    },
+    "demographic": {
+      "age": 51,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1072,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.951,
+    "investment_horizon_months": 3,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.36,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.3411,
+      "intl_equity": 0.1533,
+      "emerging_markets": 0.2346,
+      "bonds": 0.0013,
+      "real_estate": 0.0341,
+      "commodities": 0.0574,
+      "cash": 0.0453,
+      "alternatives": 0.1329
+    },
+    "demographic": {
+      "age": 34,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1073,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.2953,
+    "investment_horizon_months": 52,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.38,
+      "excluded_sectors": [
+        "US_equity",
+        "emerging_markets"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1845,
+      "intl_equity": 0.033,
+      "emerging_markets": 0.0009,
+      "bonds": 0.3312,
+      "real_estate": 0.1341,
+      "commodities": 0.0001,
+      "cash": 0.1097,
+      "alternatives": 0.2065
+    },
+    "demographic": {
+      "age": 62,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1074,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.0437,
+    "investment_horizon_months": 7,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash",
+      "real_estate"
+    ],
+    "constraints": {
+      "max_single_sector": 0.38,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.012,
+      "intl_equity": 0.0567,
+      "emerging_markets": 0.0034,
+      "bonds": 0.571,
+      "real_estate": 0.0722,
+      "commodities": 0.0213,
+      "cash": 0.2359,
+      "alternatives": 0.0276
+    },
+    "demographic": {
+      "age": 71,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1075,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.3503,
+    "investment_horizon_months": 33,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.35,
+      "excluded_sectors": [
+        "REITs",
+        "commodities"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.2862,
+      "intl_equity": 0.1066,
+      "emerging_markets": 0.062,
+      "bonds": 0.1755,
+      "real_estate": 0.0947,
+      "commodities": 0.018,
+      "cash": 0.0814,
+      "alternatives": 0.1754
+    },
+    "demographic": {
+      "age": 25,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1076,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.6947,
+    "investment_horizon_months": 49,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.26,
+      "excluded_sectors": [
+        "clean_energy"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0788,
+      "intl_equity": 0.0413,
+      "emerging_markets": 0.0045,
+      "bonds": 0.376,
+      "real_estate": 0.2517,
+      "commodities": 0.0001,
+      "cash": 0.2107,
+      "alternatives": 0.0368
+    },
+    "demographic": {
+      "age": 49,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1077,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.1791,
+    "investment_horizon_months": 27,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.33,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.247,
+      "intl_equity": 0.0004,
+      "emerging_markets": 0.0016,
+      "bonds": 0.3659,
+      "real_estate": 0.2193,
+      "commodities": 0.0476,
+      "cash": 0.0632,
+      "alternatives": 0.055
+    },
+    "demographic": {
+      "age": 57,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1078,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.4212,
+    "investment_horizon_months": 39,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.36,
+      "excluded_sectors": [
+        "growth"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1181,
+      "intl_equity": 0.1323,
+      "emerging_markets": 0.0086,
+      "bonds": 0.478,
+      "real_estate": 0.1248,
+      "commodities": 0.0059,
+      "cash": 0.084,
+      "alternatives": 0.0484
+    },
+    "demographic": {
+      "age": 48,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1079,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.114,
+    "investment_horizon_months": 15,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.34,
+      "excluded_sectors": [
+        "REITs",
+        "alternatives"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0481,
+      "intl_equity": 0.049,
+      "emerging_markets": 0.0209,
+      "bonds": 0.561,
+      "real_estate": 0.005,
+      "commodities": 0.0971,
+      "cash": 0.1586,
+      "alternatives": 0.0605
+    },
+    "demographic": {
+      "age": 75,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1080,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.7174,
+    "investment_horizon_months": 5,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.47,
+      "excluded_sectors": [
+        "dividends",
+        "bonds"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.2262,
+      "intl_equity": 0.1995,
+      "emerging_markets": 0.2054,
+      "bonds": 0.0,
+      "real_estate": 0.0812,
+      "commodities": 0.0067,
+      "cash": 0.1473,
+      "alternatives": 0.1337
+    },
+    "demographic": {
+      "age": 30,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1081,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.1741,
+    "investment_horizon_months": 51,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.48,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.0928,
+      "intl_equity": 0.055,
+      "emerging_markets": 0.0641,
+      "bonds": 0.4161,
+      "real_estate": 0.2366,
+      "commodities": 0.0307,
+      "cash": 0.0835,
+      "alternatives": 0.0213
+    },
+    "demographic": {
+      "age": 55,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1082,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.651,
+    "investment_horizon_months": 59,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.47,
+      "excluded_sectors": [
+        "cash"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1535,
+      "intl_equity": 0.0347,
+      "emerging_markets": 0.0004,
+      "bonds": 0.2116,
+      "real_estate": 0.2992,
+      "commodities": 0.0037,
+      "cash": 0.1414,
+      "alternatives": 0.1554
+    },
+    "demographic": {
+      "age": 42,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1083,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.0593,
+    "investment_horizon_months": 9,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.29,
+      "excluded_sectors": [
+        "dividends"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0314,
+      "intl_equity": 0.1192,
+      "emerging_markets": 0.0149,
+      "bonds": 0.4512,
+      "real_estate": 0.0394,
+      "commodities": 0.0411,
+      "cash": 0.2924,
+      "alternatives": 0.0104
+    },
+    "demographic": {
+      "age": 73,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1084,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.3535,
+    "investment_horizon_months": 62,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.32,
+      "excluded_sectors": [
+        "clean_energy",
+        "REITs"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.2846,
+      "intl_equity": 0.1106,
+      "emerging_markets": 0.0719,
+      "bonds": 0.1718,
+      "real_estate": 0.1366,
+      "commodities": 0.0922,
+      "cash": 0.0658,
+      "alternatives": 0.0667
+    },
+    "demographic": {
+      "age": 42,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1085,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.6923,
+    "investment_horizon_months": 6,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.28,
+      "excluded_sectors": [
+        "US_equity"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.297,
+      "intl_equity": 0.2124,
+      "emerging_markets": 0.2951,
+      "bonds": 0.0503,
+      "real_estate": 0.0004,
+      "commodities": 0.0213,
+      "cash": 0.0499,
+      "alternatives": 0.0736
+    },
+    "demographic": {
+      "age": 36,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1086,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.1689,
+    "investment_horizon_months": 53,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.35,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.1713,
+      "intl_equity": 0.1238,
+      "emerging_markets": 0.0264,
+      "bonds": 0.2799,
+      "real_estate": 0.0915,
+      "commodities": 0.0008,
+      "cash": 0.1513,
+      "alternatives": 0.155
+    },
+    "demographic": {
+      "age": 62,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1087,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.1332,
+    "investment_horizon_months": 20,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.4,
+      "excluded_sectors": [
+        "emerging_markets"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0075,
+      "intl_equity": 0.0557,
+      "emerging_markets": 0.0081,
+      "bonds": 0.5,
+      "real_estate": 0.0791,
+      "commodities": 0.0097,
+      "cash": 0.2956,
+      "alternatives": 0.0442
+    },
+    "demographic": {
+      "age": 74,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1088,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.3849,
+    "investment_horizon_months": 47,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.33,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.0644,
+      "intl_equity": 0.0314,
+      "emerging_markets": 0.001,
+      "bonds": 0.529,
+      "real_estate": 0.1126,
+      "commodities": 0.0009,
+      "cash": 0.1717,
+      "alternatives": 0.089
+    },
+    "demographic": {
+      "age": 51,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1089,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.2122,
+    "investment_horizon_months": 39,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology",
+      "bonds"
+    ],
+    "constraints": {
+      "max_single_sector": 0.26,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.0695,
+      "intl_equity": 0.0753,
+      "emerging_markets": 0.0958,
+      "bonds": 0.4112,
+      "real_estate": 0.032,
+      "commodities": 0.0023,
+      "cash": 0.0432,
+      "alternatives": 0.2707
+    },
+    "demographic": {
+      "age": 29,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1090,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.649,
+    "investment_horizon_months": 52,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.3,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.1716,
+      "intl_equity": 0.1743,
+      "emerging_markets": 0.1413,
+      "bonds": 0.2266,
+      "real_estate": 0.014,
+      "commodities": 0.1016,
+      "cash": 0.0723,
+      "alternatives": 0.0984
+    },
+    "demographic": {
+      "age": 27,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1091,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.191,
+    "investment_horizon_months": 7,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.46,
+      "excluded_sectors": [
+        "REITs",
+        "real_estate"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0178,
+      "intl_equity": 0.0324,
+      "emerging_markets": 0.0688,
+      "bonds": 0.4596,
+      "real_estate": 0.0255,
+      "commodities": 0.0384,
+      "cash": 0.3485,
+      "alternatives": 0.0089
+    },
+    "demographic": {
+      "age": 57,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1092,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.1023,
+    "investment_horizon_months": 11,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.45,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.0274,
+      "intl_equity": 0.0032,
+      "emerging_markets": 0.0102,
+      "bonds": 0.404,
+      "real_estate": 0.0161,
+      "commodities": 0.024,
+      "cash": 0.5127,
+      "alternatives": 0.0024
+    },
+    "demographic": {
+      "age": 55,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1093,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.5783,
+    "investment_horizon_months": 110,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.31,
+      "excluded_sectors": [
+        "clean_energy",
+        "cash"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.258,
+      "intl_equity": 0.0966,
+      "emerging_markets": 0.0715,
+      "bonds": 0.3177,
+      "real_estate": 0.0197,
+      "commodities": 0.0576,
+      "cash": 0.0206,
+      "alternatives": 0.1583
+    },
+    "demographic": {
+      "age": 46,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1094,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.1584,
+    "investment_horizon_months": 10,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.49,
+      "excluded_sectors": [
+        "real_estate",
+        "clean_energy"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0488,
+      "intl_equity": 0.0319,
+      "emerging_markets": 0.0004,
+      "bonds": 0.3306,
+      "real_estate": 0.0408,
+      "commodities": 0.0286,
+      "cash": 0.3265,
+      "alternatives": 0.1923
+    },
+    "demographic": {
+      "age": 58,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1095,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.3245,
+    "investment_horizon_months": 76,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.36,
+      "excluded_sectors": [
+        "clean_energy"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.222,
+      "intl_equity": 0.0775,
+      "emerging_markets": 0.0594,
+      "bonds": 0.2558,
+      "real_estate": 0.1424,
+      "commodities": 0.1096,
+      "cash": 0.0743,
+      "alternatives": 0.059
+    },
+    "demographic": {
+      "age": 40,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1096,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.9421,
+    "investment_horizon_months": 4,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets",
+      "REITs"
+    ],
+    "constraints": {
+      "max_single_sector": 0.45,
+      "excluded_sectors": [
+        "clean_energy"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.2705,
+      "intl_equity": 0.2295,
+      "emerging_markets": 0.2028,
+      "bonds": 0.0031,
+      "real_estate": 0.0494,
+      "commodities": 0.0304,
+      "cash": 0.0478,
+      "alternatives": 0.1665
+    },
+    "demographic": {
+      "age": 34,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1097,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.6878,
+    "investment_horizon_months": 1,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.39,
+      "excluded_sectors": [
+        "alternatives"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.3111,
+      "intl_equity": 0.0771,
+      "emerging_markets": 0.1157,
+      "bonds": 0.06,
+      "real_estate": 0.1272,
+      "commodities": 0.0729,
+      "cash": 0.023,
+      "alternatives": 0.213
+    },
+    "demographic": {
+      "age": 25,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1098,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.8056,
+    "investment_horizon_months": 3,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.34,
+      "excluded_sectors": [
+        "US_equity",
+        "commodities"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.3335,
+      "intl_equity": 0.0668,
+      "emerging_markets": 0.2311,
+      "bonds": 0.0041,
+      "real_estate": 0.0149,
+      "commodities": 0.0623,
+      "cash": 0.0127,
+      "alternatives": 0.2746
+    },
+    "demographic": {
+      "age": 23,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1099,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.8118,
+    "investment_horizon_months": 5,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.38,
+      "excluded_sectors": [
+        "clean_energy",
+        "commodities"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.2336,
+      "intl_equity": 0.098,
+      "emerging_markets": 0.2041,
+      "bonds": 0.1833,
+      "real_estate": 0.0138,
+      "commodities": 0.0476,
+      "cash": 0.0473,
+      "alternatives": 0.1724
+    },
+    "demographic": {
+      "age": 37,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1100,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.0568,
+    "investment_horizon_months": 22,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.48,
+      "excluded_sectors": [
+        "REITs"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0154,
+      "intl_equity": 0.0261,
+      "emerging_markets": 0.0051,
+      "bonds": 0.4263,
+      "real_estate": 0.0367,
+      "commodities": 0.1803,
+      "cash": 0.275,
+      "alternatives": 0.0351
+    },
+    "demographic": {
+      "age": 57,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1101,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.2646,
+    "investment_horizon_months": 68,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.45,
+      "excluded_sectors": [
+        "healthcare"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0978,
+      "intl_equity": 0.0864,
+      "emerging_markets": 0.1458,
+      "bonds": 0.2558,
+      "real_estate": 0.0363,
+      "commodities": 0.1813,
+      "cash": 0.0564,
+      "alternatives": 0.1402
+    },
+    "demographic": {
+      "age": 36,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1102,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.5128,
+    "investment_horizon_months": 114,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.42,
+      "excluded_sectors": [
+        "clean_energy"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.3417,
+      "intl_equity": 0.0092,
+      "emerging_markets": 0.1596,
+      "bonds": 0.2721,
+      "real_estate": 0.0723,
+      "commodities": 0.0562,
+      "cash": 0.062,
+      "alternatives": 0.027
+    },
+    "demographic": {
+      "age": 34,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1103,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.4911,
+    "investment_horizon_months": 59,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology",
+      "real_estate"
+    ],
+    "constraints": {
+      "max_single_sector": 0.26,
+      "excluded_sectors": [
+        "intl_equity"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.3781,
+      "intl_equity": 0.1453,
+      "emerging_markets": 0.1169,
+      "bonds": 0.0742,
+      "real_estate": 0.0408,
+      "commodities": 0.0668,
+      "cash": 0.0535,
+      "alternatives": 0.1244
+    },
+    "demographic": {
+      "age": 42,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1104,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.3995,
+    "investment_horizon_months": 77,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.47,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.171,
+      "intl_equity": 0.1753,
+      "emerging_markets": 0.0743,
+      "bonds": 0.1519,
+      "real_estate": 0.1327,
+      "commodities": 0.062,
+      "cash": 0.0352,
+      "alternatives": 0.1976
+    },
+    "demographic": {
+      "age": 36,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1105,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.626,
+    "investment_horizon_months": 51,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.36,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.1165,
+      "intl_equity": 0.21,
+      "emerging_markets": 0.0892,
+      "bonds": 0.1137,
+      "real_estate": 0.0518,
+      "commodities": 0.0432,
+      "cash": 0.1885,
+      "alternatives": 0.1871
+    },
+    "demographic": {
+      "age": 32,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1106,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.4522,
+    "investment_horizon_months": 45,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.33,
+      "excluded_sectors": [
+        "growth"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0587,
+      "intl_equity": 0.1528,
+      "emerging_markets": 0.2567,
+      "bonds": 0.1687,
+      "real_estate": 0.2358,
+      "commodities": 0.0406,
+      "cash": 0.0268,
+      "alternatives": 0.0599
+    },
+    "demographic": {
+      "age": 46,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1107,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.5833,
+    "investment_horizon_months": 41,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.42,
+      "excluded_sectors": [
+        "intl_equity"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.2565,
+      "intl_equity": 0.1886,
+      "emerging_markets": 0.1127,
+      "bonds": 0.0496,
+      "real_estate": 0.0172,
+      "commodities": 0.0037,
+      "cash": 0.1677,
+      "alternatives": 0.204
+    },
+    "demographic": {
+      "age": 38,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1108,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.8711,
+    "investment_horizon_months": 1,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.37,
+      "excluded_sectors": [
+        "bonds",
+        "clean_energy"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.2735,
+      "intl_equity": 0.2294,
+      "emerging_markets": 0.185,
+      "bonds": 0.0119,
+      "real_estate": 0.0016,
+      "commodities": 0.0169,
+      "cash": 0.0722,
+      "alternatives": 0.2094
+    },
+    "demographic": {
+      "age": 25,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1109,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.1785,
+    "investment_horizon_months": 20,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.29,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.0076,
+      "intl_equity": 0.0472,
+      "emerging_markets": 0.0061,
+      "bonds": 0.411,
+      "real_estate": 0.0999,
+      "commodities": 0.0508,
+      "cash": 0.3519,
+      "alternatives": 0.0255
+    },
+    "demographic": {
+      "age": 76,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1110,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.5712,
+    "investment_horizon_months": 16,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.49,
+      "excluded_sectors": [
+        "technology"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1259,
+      "intl_equity": 0.0593,
+      "emerging_markets": 0.0218,
+      "bonds": 0.3392,
+      "real_estate": 0.2222,
+      "commodities": 0.0192,
+      "cash": 0.1019,
+      "alternatives": 0.1105
+    },
+    "demographic": {
+      "age": 58,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1111,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.0956,
+    "investment_horizon_months": 11,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.28,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.0078,
+      "intl_equity": 0.0044,
+      "emerging_markets": 0.0154,
+      "bonds": 0.7451,
+      "real_estate": 0.0031,
+      "commodities": 0.0004,
+      "cash": 0.1098,
+      "alternatives": 0.114
+    },
+    "demographic": {
+      "age": 56,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1112,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.3917,
+    "investment_horizon_months": 60,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.46,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.0578,
+      "intl_equity": 0.0073,
+      "emerging_markets": 0.0023,
+      "bonds": 0.3244,
+      "real_estate": 0.222,
+      "commodities": 0.0683,
+      "cash": 0.2661,
+      "alternatives": 0.0517
+    },
+    "demographic": {
+      "age": 48,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1113,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.4563,
+    "investment_horizon_months": 118,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.47,
+      "excluded_sectors": [
+        "emerging_markets"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.3484,
+      "intl_equity": 0.1357,
+      "emerging_markets": 0.1203,
+      "bonds": 0.1329,
+      "real_estate": 0.0517,
+      "commodities": 0.0247,
+      "cash": 0.0367,
+      "alternatives": 0.1495
+    },
+    "demographic": {
+      "age": 47,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1114,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.9107,
+    "investment_horizon_months": 4,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.35,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.2682,
+      "intl_equity": 0.1627,
+      "emerging_markets": 0.2224,
+      "bonds": 0.0104,
+      "real_estate": 0.0297,
+      "commodities": 0.0157,
+      "cash": 0.0132,
+      "alternatives": 0.2777
+    },
+    "demographic": {
+      "age": 25,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1115,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.7728,
+    "investment_horizon_months": 1,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.43,
+      "excluded_sectors": [
+        "dividends"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.3492,
+      "intl_equity": 0.2988,
+      "emerging_markets": 0.104,
+      "bonds": 0.0527,
+      "real_estate": 0.0006,
+      "commodities": 0.0465,
+      "cash": 0.0479,
+      "alternatives": 0.1003
+    },
+    "demographic": {
+      "age": 24,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1116,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.4232,
+    "investment_horizon_months": 64,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives",
+      "growth"
+    ],
+    "constraints": {
+      "max_single_sector": 0.32,
+      "excluded_sectors": [
+        "REITs"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1886,
+      "intl_equity": 0.0896,
+      "emerging_markets": 0.0798,
+      "bonds": 0.347,
+      "real_estate": 0.1198,
+      "commodities": 0.108,
+      "cash": 0.0198,
+      "alternatives": 0.0474
+    },
+    "demographic": {
+      "age": 37,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1117,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.2697,
+    "investment_horizon_months": 39,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.38,
+      "excluded_sectors": [
+        "clean_energy",
+        "intl_equity"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1218,
+      "intl_equity": 0.0822,
+      "emerging_markets": 0.0487,
+      "bonds": 0.2154,
+      "real_estate": 0.3966,
+      "commodities": 0.0007,
+      "cash": 0.0682,
+      "alternatives": 0.0663
+    },
+    "demographic": {
+      "age": 54,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1118,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.6172,
+    "investment_horizon_months": 59,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.27,
+      "excluded_sectors": [
+        "clean_energy",
+        "real_estate"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0771,
+      "intl_equity": 0.0571,
+      "emerging_markets": 0.0861,
+      "bonds": 0.419,
+      "real_estate": 0.096,
+      "commodities": 0.0149,
+      "cash": 0.1306,
+      "alternatives": 0.1189
+    },
+    "demographic": {
+      "age": 62,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1119,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.3786,
+    "investment_horizon_months": 32,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.41,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.0637,
+      "intl_equity": 0.1337,
+      "emerging_markets": 0.0392,
+      "bonds": 0.4732,
+      "real_estate": 0.0301,
+      "commodities": 0.0062,
+      "cash": 0.2264,
+      "alternatives": 0.0274
+    },
+    "demographic": {
+      "age": 59,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1120,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.858,
+    "investment_horizon_months": 1,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.34,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.2504,
+      "intl_equity": 0.1784,
+      "emerging_markets": 0.3722,
+      "bonds": 0.0003,
+      "real_estate": 0.0404,
+      "commodities": 0.0546,
+      "cash": 0.0231,
+      "alternatives": 0.0806
+    },
+    "demographic": {
+      "age": 22,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1121,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.8023,
+    "investment_horizon_months": 3,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.4,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.1942,
+      "intl_equity": 0.0879,
+      "emerging_markets": 0.3456,
+      "bonds": 0.0012,
+      "real_estate": 0.0164,
+      "commodities": 0.0199,
+      "cash": 0.0991,
+      "alternatives": 0.2357
+    },
+    "demographic": {
+      "age": 33,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1122,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.3703,
+    "investment_horizon_months": 48,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.36,
+      "excluded_sectors": [
+        "commodities",
+        "growth"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1209,
+      "intl_equity": 0.0306,
+      "emerging_markets": 0.0531,
+      "bonds": 0.4034,
+      "real_estate": 0.0602,
+      "commodities": 0.0104,
+      "cash": 0.2474,
+      "alternatives": 0.0739
+    },
+    "demographic": {
+      "age": 45,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1123,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.5177,
+    "investment_horizon_months": 24,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology",
+      "US_equity"
+    ],
+    "constraints": {
+      "max_single_sector": 0.28,
+      "excluded_sectors": [
+        "emerging_markets",
+        "bonds"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0874,
+      "intl_equity": 0.1824,
+      "emerging_markets": 0.0654,
+      "bonds": 0.0707,
+      "real_estate": 0.1072,
+      "commodities": 0.0942,
+      "cash": 0.0412,
+      "alternatives": 0.3515
+    },
+    "demographic": {
+      "age": 28,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1124,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.1578,
+    "investment_horizon_months": 7,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.38,
+      "excluded_sectors": [
+        "technology",
+        "dividends"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0487,
+      "intl_equity": 0.1235,
+      "emerging_markets": 0.0,
+      "bonds": 0.3656,
+      "real_estate": 0.065,
+      "commodities": 0.011,
+      "cash": 0.3596,
+      "alternatives": 0.0266
+    },
+    "demographic": {
+      "age": 80,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1125,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.8551,
+    "investment_horizon_months": 1,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.27,
+      "excluded_sectors": [
+        "healthcare"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.2911,
+      "intl_equity": 0.0756,
+      "emerging_markets": 0.2712,
+      "bonds": 0.0241,
+      "real_estate": 0.1021,
+      "commodities": 0.0017,
+      "cash": 0.0166,
+      "alternatives": 0.2175
+    },
+    "demographic": {
+      "age": 40,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1126,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.8808,
+    "investment_horizon_months": 3,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.3,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.2883,
+      "intl_equity": 0.213,
+      "emerging_markets": 0.0939,
+      "bonds": 0.0524,
+      "real_estate": 0.016,
+      "commodities": 0.038,
+      "cash": 0.0008,
+      "alternatives": 0.2976
+    },
+    "demographic": {
+      "age": 23,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1127,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.1105,
+    "investment_horizon_months": 7,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.34,
+      "excluded_sectors": [
+        "alternatives"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0238,
+      "intl_equity": 0.0209,
+      "emerging_markets": 0.0042,
+      "bonds": 0.4927,
+      "real_estate": 0.0579,
+      "commodities": 0.077,
+      "cash": 0.3067,
+      "alternatives": 0.0168
+    },
+    "demographic": {
+      "age": 55,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1128,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.0988,
+    "investment_horizon_months": 19,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.4,
+      "excluded_sectors": [
+        "real_estate",
+        "dividends"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0287,
+      "intl_equity": 0.0471,
+      "emerging_markets": 0.0064,
+      "bonds": 0.6112,
+      "real_estate": 0.0354,
+      "commodities": 0.0166,
+      "cash": 0.2293,
+      "alternatives": 0.0252
+    },
+    "demographic": {
+      "age": 65,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1129,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.9232,
+    "investment_horizon_months": 4,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.32,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.4687,
+      "intl_equity": 0.1155,
+      "emerging_markets": 0.1415,
+      "bonds": 0.0458,
+      "real_estate": 0.0257,
+      "commodities": 0.0626,
+      "cash": 0.004,
+      "alternatives": 0.1362
+    },
+    "demographic": {
+      "age": 22,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1130,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.1823,
+    "investment_horizon_months": 11,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.43,
+      "excluded_sectors": [
+        "alternatives",
+        "clean_energy"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0634,
+      "intl_equity": 0.062,
+      "emerging_markets": 0.0175,
+      "bonds": 0.2963,
+      "real_estate": 0.1247,
+      "commodities": 0.0177,
+      "cash": 0.3276,
+      "alternatives": 0.0907
+    },
+    "demographic": {
+      "age": 69,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1131,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.5581,
+    "investment_horizon_months": 4,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.34,
+      "excluded_sectors": [
+        "REITs"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.4425,
+      "intl_equity": 0.1048,
+      "emerging_markets": 0.2074,
+      "bonds": 0.0075,
+      "real_estate": 0.0033,
+      "commodities": 0.0208,
+      "cash": 0.0481,
+      "alternatives": 0.1656
+    },
+    "demographic": {
+      "age": 30,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1132,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.9066,
+    "investment_horizon_months": 6,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.26,
+      "excluded_sectors": [
+        "US_equity",
+        "intl_equity"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1963,
+      "intl_equity": 0.0846,
+      "emerging_markets": 0.135,
+      "bonds": 0.0009,
+      "real_estate": 0.0034,
+      "commodities": 0.2791,
+      "cash": 0.0807,
+      "alternatives": 0.2201
+    },
+    "demographic": {
+      "age": 27,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1133,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.6545,
+    "investment_horizon_months": 54,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology",
+      "US_equity"
+    ],
+    "constraints": {
+      "max_single_sector": 0.31,
+      "excluded_sectors": [
+        "cash"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1217,
+      "intl_equity": 0.1386,
+      "emerging_markets": 0.1006,
+      "bonds": 0.2738,
+      "real_estate": 0.0209,
+      "commodities": 0.0432,
+      "cash": 0.1035,
+      "alternatives": 0.1977
+    },
+    "demographic": {
+      "age": 40,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1134,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.1756,
+    "investment_horizon_months": 7,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash",
+      "crypto"
+    ],
+    "constraints": {
+      "max_single_sector": 0.4,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.0838,
+      "intl_equity": 0.0416,
+      "emerging_markets": 0.0019,
+      "bonds": 0.4562,
+      "real_estate": 0.0373,
+      "commodities": 0.07,
+      "cash": 0.2307,
+      "alternatives": 0.0784
+    },
+    "demographic": {
+      "age": 71,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1135,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.5901,
+    "investment_horizon_months": 42,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.29,
+      "excluded_sectors": [
+        "real_estate"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1759,
+      "intl_equity": 0.1021,
+      "emerging_markets": 0.0708,
+      "bonds": 0.1521,
+      "real_estate": 0.1098,
+      "commodities": 0.0099,
+      "cash": 0.0718,
+      "alternatives": 0.3075
+    },
+    "demographic": {
+      "age": 43,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1136,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.8399,
+    "investment_horizon_months": 25,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.38,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.1662,
+      "intl_equity": 0.1196,
+      "emerging_markets": 0.0627,
+      "bonds": 0.0434,
+      "real_estate": 0.1356,
+      "commodities": 0.0042,
+      "cash": 0.0561,
+      "alternatives": 0.4122
+    },
+    "demographic": {
+      "age": 31,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1137,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.6249,
+    "investment_horizon_months": 73,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.26,
+      "excluded_sectors": [
+        "cash",
+        "growth"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.2504,
+      "intl_equity": 0.2783,
+      "emerging_markets": 0.1026,
+      "bonds": 0.0967,
+      "real_estate": 0.0544,
+      "commodities": 0.0893,
+      "cash": 0.0723,
+      "alternatives": 0.0561
+    },
+    "demographic": {
+      "age": 50,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1138,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.7401,
+    "investment_horizon_months": 6,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.42,
+      "excluded_sectors": [
+        "real_estate"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.3694,
+      "intl_equity": 0.1707,
+      "emerging_markets": 0.2233,
+      "bonds": 0.0526,
+      "real_estate": 0.0549,
+      "commodities": 0.0328,
+      "cash": 0.0134,
+      "alternatives": 0.0828
+    },
+    "demographic": {
+      "age": 32,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1139,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.2231,
+    "investment_horizon_months": 31,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.3,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.1442,
+      "intl_equity": 0.0501,
+      "emerging_markets": 0.0015,
+      "bonds": 0.3319,
+      "real_estate": 0.1332,
+      "commodities": 0.0442,
+      "cash": 0.1515,
+      "alternatives": 0.1435
+    },
+    "demographic": {
+      "age": 52,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1140,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.6769,
+    "investment_horizon_months": 4,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.26,
+      "excluded_sectors": [
+        "healthcare",
+        "clean_energy"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.2241,
+      "intl_equity": 0.2385,
+      "emerging_markets": 0.0724,
+      "bonds": 0.0463,
+      "real_estate": 0.0636,
+      "commodities": 0.0062,
+      "cash": 0.0785,
+      "alternatives": 0.2704
+    },
+    "demographic": {
+      "age": 33,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1141,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.361,
+    "investment_horizon_months": 57,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.4,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.0478,
+      "intl_equity": 0.0022,
+      "emerging_markets": 0.0893,
+      "bonds": 0.3731,
+      "real_estate": 0.2568,
+      "commodities": 0.0777,
+      "cash": 0.1023,
+      "alternatives": 0.0507
+    },
+    "demographic": {
+      "age": 49,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1142,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.2986,
+    "investment_horizon_months": 43,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.26,
+      "excluded_sectors": [
+        "emerging_markets",
+        "crypto"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1821,
+      "intl_equity": 0.0712,
+      "emerging_markets": 0.0493,
+      "bonds": 0.17,
+      "real_estate": 0.1993,
+      "commodities": 0.1206,
+      "cash": 0.1555,
+      "alternatives": 0.052
+    },
+    "demographic": {
+      "age": 61,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1143,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.9634,
+    "investment_horizon_months": 5,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.28,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.2732,
+      "intl_equity": 0.1193,
+      "emerging_markets": 0.1943,
+      "bonds": 0.025,
+      "real_estate": 0.0192,
+      "commodities": 0.0145,
+      "cash": 0.1915,
+      "alternatives": 0.163
+    },
+    "demographic": {
+      "age": 32,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1144,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.5464,
+    "investment_horizon_months": 76,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.42,
+      "excluded_sectors": [
+        "REITs",
+        "growth"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0906,
+      "intl_equity": 0.0852,
+      "emerging_markets": 0.0043,
+      "bonds": 0.3223,
+      "real_estate": 0.1326,
+      "commodities": 0.112,
+      "cash": 0.0487,
+      "alternatives": 0.2043
+    },
+    "demographic": {
+      "age": 48,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1145,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.3441,
+    "investment_horizon_months": 29,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.36,
+      "excluded_sectors": [
+        "real_estate",
+        "growth"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0386,
+      "intl_equity": 0.0071,
+      "emerging_markets": 0.1062,
+      "bonds": 0.2593,
+      "real_estate": 0.1884,
+      "commodities": 0.1354,
+      "cash": 0.1452,
+      "alternatives": 0.1197
+    },
+    "demographic": {
+      "age": 49,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1146,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.5721,
+    "investment_horizon_months": 38,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.31,
+      "excluded_sectors": [
+        "dividends",
+        "crypto"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1739,
+      "intl_equity": 0.2051,
+      "emerging_markets": 0.1065,
+      "bonds": 0.181,
+      "real_estate": 0.0762,
+      "commodities": 0.0409,
+      "cash": 0.1343,
+      "alternatives": 0.0822
+    },
+    "demographic": {
+      "age": 50,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1147,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.669,
+    "investment_horizon_months": 67,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.39,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.1684,
+      "intl_equity": 0.1596,
+      "emerging_markets": 0.054,
+      "bonds": 0.2724,
+      "real_estate": 0.078,
+      "commodities": 0.1546,
+      "cash": 0.0575,
+      "alternatives": 0.0555
+    },
+    "demographic": {
+      "age": 36,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1148,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.5208,
+    "investment_horizon_months": 30,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology",
+      "intl_equity"
+    ],
+    "constraints": {
+      "max_single_sector": 0.46,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.2112,
+      "intl_equity": 0.1216,
+      "emerging_markets": 0.1149,
+      "bonds": 0.0768,
+      "real_estate": 0.0838,
+      "commodities": 0.0187,
+      "cash": 0.082,
+      "alternatives": 0.2909
+    },
+    "demographic": {
+      "age": 35,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1149,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.1211,
+    "investment_horizon_months": 91,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.39,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.2412,
+      "intl_equity": 0.2521,
+      "emerging_markets": 0.1268,
+      "bonds": 0.173,
+      "real_estate": 0.0659,
+      "commodities": 0.0687,
+      "cash": 0.0185,
+      "alternatives": 0.0538
+    },
+    "demographic": {
+      "age": 36,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1150,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.6735,
+    "investment_horizon_months": 41,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.33,
+      "excluded_sectors": [
+        "real_estate",
+        "commodities"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0372,
+      "intl_equity": 0.1734,
+      "emerging_markets": 0.1609,
+      "bonds": 0.2009,
+      "real_estate": 0.0745,
+      "commodities": 0.0066,
+      "cash": 0.1849,
+      "alternatives": 0.1617
+    },
+    "demographic": {
+      "age": 35,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1151,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.3614,
+    "investment_horizon_months": 13,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.28,
+      "excluded_sectors": [
+        "real_estate"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1277,
+      "intl_equity": 0.0253,
+      "emerging_markets": 0.0526,
+      "bonds": 0.4728,
+      "real_estate": 0.1042,
+      "commodities": 0.0056,
+      "cash": 0.1917,
+      "alternatives": 0.02
+    },
+    "demographic": {
+      "age": 56,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1152,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.3208,
+    "investment_horizon_months": 44,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.36,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.1246,
+      "intl_equity": 0.1147,
+      "emerging_markets": 0.1767,
+      "bonds": 0.1569,
+      "real_estate": 0.0272,
+      "commodities": 0.0125,
+      "cash": 0.1586,
+      "alternatives": 0.2288
+    },
+    "demographic": {
+      "age": 43,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1153,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.036,
+    "investment_horizon_months": 21,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.49,
+      "excluded_sectors": [
+        "dividends",
+        "US_equity"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0125,
+      "intl_equity": 0.0239,
+      "emerging_markets": 0.0053,
+      "bonds": 0.3664,
+      "real_estate": 0.0296,
+      "commodities": 0.0108,
+      "cash": 0.5044,
+      "alternatives": 0.0471
+    },
+    "demographic": {
+      "age": 62,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1154,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.2702,
+    "investment_horizon_months": 57,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.34,
+      "excluded_sectors": [
+        "technology"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1004,
+      "intl_equity": 0.0087,
+      "emerging_markets": 0.0063,
+      "bonds": 0.4527,
+      "real_estate": 0.305,
+      "commodities": 0.0082,
+      "cash": 0.0701,
+      "alternatives": 0.0486
+    },
+    "demographic": {
+      "age": 60,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1155,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.9532,
+    "investment_horizon_months": 3,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.44,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.2823,
+      "intl_equity": 0.0499,
+      "emerging_markets": 0.1483,
+      "bonds": 0.0306,
+      "real_estate": 0.0103,
+      "commodities": 0.0455,
+      "cash": 0.0135,
+      "alternatives": 0.4196
+    },
+    "demographic": {
+      "age": 32,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1156,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.9426,
+    "investment_horizon_months": 6,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.44,
+      "excluded_sectors": [
+        "utilities",
+        "cash"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.3258,
+      "intl_equity": 0.0559,
+      "emerging_markets": 0.2528,
+      "bonds": 0.0117,
+      "real_estate": 0.0149,
+      "commodities": 0.0671,
+      "cash": 0.0688,
+      "alternatives": 0.2029
+    },
+    "demographic": {
+      "age": 32,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1157,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.58,
+    "investment_horizon_months": 65,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.38,
+      "excluded_sectors": [
+        "utilities"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.3321,
+      "intl_equity": 0.0886,
+      "emerging_markets": 0.0595,
+      "bonds": 0.1452,
+      "real_estate": 0.1379,
+      "commodities": 0.1245,
+      "cash": 0.013,
+      "alternatives": 0.0991
+    },
+    "demographic": {
+      "age": 32,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1158,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.2397,
+    "investment_horizon_months": 8,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.37,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.0521,
+      "intl_equity": 0.102,
+      "emerging_markets": 0.0219,
+      "bonds": 0.485,
+      "real_estate": 0.0467,
+      "commodities": 0.0128,
+      "cash": 0.2449,
+      "alternatives": 0.0348
+    },
+    "demographic": {
+      "age": 62,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1159,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.4232,
+    "investment_horizon_months": 69,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.27,
+      "excluded_sectors": [
+        "technology",
+        "clean_energy"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1982,
+      "intl_equity": 0.097,
+      "emerging_markets": 0.1064,
+      "bonds": 0.21,
+      "real_estate": 0.0628,
+      "commodities": 0.1068,
+      "cash": 0.1096,
+      "alternatives": 0.1092
+    },
+    "demographic": {
+      "age": 55,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1160,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.4675,
+    "investment_horizon_months": 54,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.25,
+      "excluded_sectors": [
+        "intl_equity"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0847,
+      "intl_equity": 0.1161,
+      "emerging_markets": 0.1972,
+      "bonds": 0.3058,
+      "real_estate": 0.0272,
+      "commodities": 0.0954,
+      "cash": 0.0637,
+      "alternatives": 0.1099
+    },
+    "demographic": {
+      "age": 25,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1161,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.104,
+    "investment_horizon_months": 42,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.42,
+      "excluded_sectors": [
+        "real_estate",
+        "growth"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0066,
+      "intl_equity": 0.1145,
+      "emerging_markets": 0.028,
+      "bonds": 0.4827,
+      "real_estate": 0.1448,
+      "commodities": 0.0297,
+      "cash": 0.0315,
+      "alternatives": 0.1623
+    },
+    "demographic": {
+      "age": 45,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1162,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.6687,
+    "investment_horizon_months": 5,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.27,
+      "excluded_sectors": [
+        "utilities",
+        "intl_equity"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1555,
+      "intl_equity": 0.1724,
+      "emerging_markets": 0.2226,
+      "bonds": 0.001,
+      "real_estate": 0.0318,
+      "commodities": 0.0098,
+      "cash": 0.1037,
+      "alternatives": 0.3031
+    },
+    "demographic": {
+      "age": 36,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1163,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.8412,
+    "investment_horizon_months": 6,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets",
+      "US_equity"
+    ],
+    "constraints": {
+      "max_single_sector": 0.46,
+      "excluded_sectors": [
+        "clean_energy",
+        "utilities"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.3559,
+      "intl_equity": 0.0458,
+      "emerging_markets": 0.0936,
+      "bonds": 0.0264,
+      "real_estate": 0.0006,
+      "commodities": 0.2259,
+      "cash": 0.028,
+      "alternatives": 0.2237
+    },
+    "demographic": {
+      "age": 34,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1164,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.241,
+    "investment_horizon_months": 57,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.25,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.1106,
+      "intl_equity": 0.0675,
+      "emerging_markets": 0.0122,
+      "bonds": 0.1333,
+      "real_estate": 0.3515,
+      "commodities": 0.0367,
+      "cash": 0.2095,
+      "alternatives": 0.0787
+    },
+    "demographic": {
+      "age": 41,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1165,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.9311,
+    "investment_horizon_months": 3,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.25,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.1045,
+      "intl_equity": 0.1407,
+      "emerging_markets": 0.1556,
+      "bonds": 0.0017,
+      "real_estate": 0.0178,
+      "commodities": 0.0085,
+      "cash": 0.0907,
+      "alternatives": 0.4806
+    },
+    "demographic": {
+      "age": 28,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1166,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.5881,
+    "investment_horizon_months": 40,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.46,
+      "excluded_sectors": [
+        "real_estate"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1155,
+      "intl_equity": 0.2161,
+      "emerging_markets": 0.0275,
+      "bonds": 0.2683,
+      "real_estate": 0.0191,
+      "commodities": 0.0228,
+      "cash": 0.0457,
+      "alternatives": 0.285
+    },
+    "demographic": {
+      "age": 40,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1167,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.0706,
+    "investment_horizon_months": 12,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.38,
+      "excluded_sectors": [
+        "intl_equity",
+        "crypto"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0643,
+      "intl_equity": 0.0372,
+      "emerging_markets": 0.0115,
+      "bonds": 0.6848,
+      "real_estate": 0.0837,
+      "commodities": 0.0116,
+      "cash": 0.0885,
+      "alternatives": 0.0183
+    },
+    "demographic": {
+      "age": 47,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1168,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.1441,
+    "investment_horizon_months": 27,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.41,
+      "excluded_sectors": [
+        "alternatives",
+        "healthcare"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1749,
+      "intl_equity": 0.0326,
+      "emerging_markets": 0.1749,
+      "bonds": 0.3312,
+      "real_estate": 0.1222,
+      "commodities": 0.0177,
+      "cash": 0.1041,
+      "alternatives": 0.0424
+    },
+    "demographic": {
+      "age": 44,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1169,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.286,
+    "investment_horizon_months": 7,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.37,
+      "excluded_sectors": [
+        "US_equity",
+        "emerging_markets"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1289,
+      "intl_equity": 0.0728,
+      "emerging_markets": 0.0093,
+      "bonds": 0.3463,
+      "real_estate": 0.0742,
+      "commodities": 0.0014,
+      "cash": 0.3558,
+      "alternatives": 0.0114
+    },
+    "demographic": {
+      "age": 70,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1170,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.0668,
+    "investment_horizon_months": 18,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.34,
+      "excluded_sectors": [
+        "commodities",
+        "real_estate"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0339,
+      "intl_equity": 0.0149,
+      "emerging_markets": 0.0607,
+      "bonds": 0.4912,
+      "real_estate": 0.031,
+      "commodities": 0.0066,
+      "cash": 0.2933,
+      "alternatives": 0.0684
+    },
+    "demographic": {
+      "age": 55,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1171,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.8921,
+    "investment_horizon_months": 6,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.29,
+      "excluded_sectors": [
+        "commodities",
+        "REITs"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.3379,
+      "intl_equity": 0.0268,
+      "emerging_markets": 0.2147,
+      "bonds": 0.0679,
+      "real_estate": 0.0037,
+      "commodities": 0.0834,
+      "cash": 0.0103,
+      "alternatives": 0.2554
+    },
+    "demographic": {
+      "age": 34,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1172,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.232,
+    "investment_horizon_months": 7,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash",
+      "commodities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.37,
+      "excluded_sectors": [
+        "US_equity"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0157,
+      "intl_equity": 0.1213,
+      "emerging_markets": 0.0202,
+      "bonds": 0.5188,
+      "real_estate": 0.0414,
+      "commodities": 0.0043,
+      "cash": 0.1297,
+      "alternatives": 0.1485
+    },
+    "demographic": {
+      "age": 56,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1173,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.5983,
+    "investment_horizon_months": 60,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology",
+      "dividends"
+    ],
+    "constraints": {
+      "max_single_sector": 0.49,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.1463,
+      "intl_equity": 0.0599,
+      "emerging_markets": 0.2127,
+      "bonds": 0.187,
+      "real_estate": 0.0059,
+      "commodities": 0.0077,
+      "cash": 0.1644,
+      "alternatives": 0.216
+    },
+    "demographic": {
+      "age": 29,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1174,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.5832,
+    "investment_horizon_months": 88,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.49,
+      "excluded_sectors": [
+        "clean_energy"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.142,
+      "intl_equity": 0.1593,
+      "emerging_markets": 0.0426,
+      "bonds": 0.1994,
+      "real_estate": 0.2862,
+      "commodities": 0.0429,
+      "cash": 0.035,
+      "alternatives": 0.0927
+    },
+    "demographic": {
+      "age": 38,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1175,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.5949,
+    "investment_horizon_months": 42,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology",
+      "bonds"
+    ],
+    "constraints": {
+      "max_single_sector": 0.41,
+      "excluded_sectors": [
+        "dividends",
+        "US_equity"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0818,
+      "intl_equity": 0.1321,
+      "emerging_markets": 0.1782,
+      "bonds": 0.1486,
+      "real_estate": 0.0181,
+      "commodities": 0.0517,
+      "cash": 0.0679,
+      "alternatives": 0.3216
+    },
+    "demographic": {
+      "age": 42,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1176,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.5858,
+    "investment_horizon_months": 24,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.43,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.2111,
+      "intl_equity": 0.1088,
+      "emerging_markets": 0.0156,
+      "bonds": 0.2696,
+      "real_estate": 0.0433,
+      "commodities": 0.0059,
+      "cash": 0.1004,
+      "alternatives": 0.2452
+    },
+    "demographic": {
+      "age": 28,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1177,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.5234,
+    "investment_horizon_months": 57,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.4,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.1408,
+      "intl_equity": 0.0174,
+      "emerging_markets": 0.0152,
+      "bonds": 0.3027,
+      "real_estate": 0.2323,
+      "commodities": 0.0004,
+      "cash": 0.2424,
+      "alternatives": 0.0487
+    },
+    "demographic": {
+      "age": 44,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1178,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.3072,
+    "investment_horizon_months": 55,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities",
+      "intl_equity"
+    ],
+    "constraints": {
+      "max_single_sector": 0.38,
+      "excluded_sectors": [
+        "US_equity"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.154,
+      "intl_equity": 0.0105,
+      "emerging_markets": 0.0367,
+      "bonds": 0.2758,
+      "real_estate": 0.0243,
+      "commodities": 0.044,
+      "cash": 0.29,
+      "alternatives": 0.1648
+    },
+    "demographic": {
+      "age": 57,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1179,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.9741,
+    "investment_horizon_months": 5,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets",
+      "commodities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.32,
+      "excluded_sectors": [
+        "real_estate",
+        "commodities"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.2471,
+      "intl_equity": 0.2996,
+      "emerging_markets": 0.1465,
+      "bonds": 0.0137,
+      "real_estate": 0.0006,
+      "commodities": 0.0176,
+      "cash": 0.0725,
+      "alternatives": 0.2023
+    },
+    "demographic": {
+      "age": 22,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1180,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.8843,
+    "investment_horizon_months": 4,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.31,
+      "excluded_sectors": [
+        "cash"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.2653,
+      "intl_equity": 0.0712,
+      "emerging_markets": 0.2966,
+      "bonds": 0.0,
+      "real_estate": 0.0838,
+      "commodities": 0.0038,
+      "cash": 0.0399,
+      "alternatives": 0.2393
+    },
+    "demographic": {
+      "age": 25,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1181,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.3454,
+    "investment_horizon_months": 114,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.27,
+      "excluded_sectors": [
+        "technology",
+        "dividends"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1335,
+      "intl_equity": 0.0894,
+      "emerging_markets": 0.0881,
+      "bonds": 0.2528,
+      "real_estate": 0.0767,
+      "commodities": 0.257,
+      "cash": 0.0557,
+      "alternatives": 0.0468
+    },
+    "demographic": {
+      "age": 46,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1182,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.0439,
+    "investment_horizon_months": 12,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.5,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.0554,
+      "intl_equity": 0.0031,
+      "emerging_markets": 0.0042,
+      "bonds": 0.5002,
+      "real_estate": 0.0248,
+      "commodities": 0.0595,
+      "cash": 0.2474,
+      "alternatives": 0.1054
+    },
+    "demographic": {
+      "age": 64,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1183,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.9588,
+    "investment_horizon_months": 6,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.27,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.3322,
+      "intl_equity": 0.0712,
+      "emerging_markets": 0.1722,
+      "bonds": 0.0674,
+      "real_estate": 0.0827,
+      "commodities": 0.0582,
+      "cash": 0.0083,
+      "alternatives": 0.2077
+    },
+    "demographic": {
+      "age": 34,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1184,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.3726,
+    "investment_horizon_months": 97,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.31,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.0962,
+      "intl_equity": 0.0457,
+      "emerging_markets": 0.1123,
+      "bonds": 0.3527,
+      "real_estate": 0.0678,
+      "commodities": 0.1626,
+      "cash": 0.0516,
+      "alternatives": 0.1111
+    },
+    "demographic": {
+      "age": 32,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1185,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.4628,
+    "investment_horizon_months": 55,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives",
+      "dividends"
+    ],
+    "constraints": {
+      "max_single_sector": 0.37,
+      "excluded_sectors": [
+        "emerging_markets"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1671,
+      "intl_equity": 0.0753,
+      "emerging_markets": 0.1749,
+      "bonds": 0.2577,
+      "real_estate": 0.1108,
+      "commodities": 0.089,
+      "cash": 0.0861,
+      "alternatives": 0.0391
+    },
+    "demographic": {
+      "age": 36,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1186,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.7489,
+    "investment_horizon_months": 50,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.5,
+      "excluded_sectors": [
+        "dividends",
+        "utilities"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0597,
+      "intl_equity": 0.1015,
+      "emerging_markets": 0.0524,
+      "bonds": 0.2488,
+      "real_estate": 0.0563,
+      "commodities": 0.0655,
+      "cash": 0.1207,
+      "alternatives": 0.2952
+    },
+    "demographic": {
+      "age": 45,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1187,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.2657,
+    "investment_horizon_months": 51,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology",
+      "REITs"
+    ],
+    "constraints": {
+      "max_single_sector": 0.48,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.1795,
+      "intl_equity": 0.1135,
+      "emerging_markets": 0.1624,
+      "bonds": 0.1331,
+      "real_estate": 0.0382,
+      "commodities": 0.0363,
+      "cash": 0.0474,
+      "alternatives": 0.2896
+    },
+    "demographic": {
+      "age": 44,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1188,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.2051,
+    "investment_horizon_months": 34,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.37,
+      "excluded_sectors": [
+        "technology"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0989,
+      "intl_equity": 0.0011,
+      "emerging_markets": 0.0071,
+      "bonds": 0.4992,
+      "real_estate": 0.1425,
+      "commodities": 0.0024,
+      "cash": 0.1388,
+      "alternatives": 0.1099
+    },
+    "demographic": {
+      "age": 63,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1189,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.8094,
+    "investment_horizon_months": 4,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.29,
+      "excluded_sectors": [
+        "cash"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.2142,
+      "intl_equity": 0.0921,
+      "emerging_markets": 0.3772,
+      "bonds": 0.0392,
+      "real_estate": 0.1493,
+      "commodities": 0.0031,
+      "cash": 0.005,
+      "alternatives": 0.1199
+    },
+    "demographic": {
+      "age": 38,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1190,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.6039,
+    "investment_horizon_months": 58,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.36,
+      "excluded_sectors": [
+        "real_estate",
+        "dividends"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.1566,
+      "intl_equity": 0.028,
+      "emerging_markets": 0.1514,
+      "bonds": 0.0684,
+      "real_estate": 0.1826,
+      "commodities": 0.1598,
+      "cash": 0.0481,
+      "alternatives": 0.2051
+    },
+    "demographic": {
+      "age": 41,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1191,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.3979,
+    "investment_horizon_months": 43,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.48,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.2195,
+      "intl_equity": 0.2042,
+      "emerging_markets": 0.0717,
+      "bonds": 0.0456,
+      "real_estate": 0.032,
+      "commodities": 0.1086,
+      "cash": 0.0857,
+      "alternatives": 0.2327
+    },
+    "demographic": {
+      "age": 27,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1192,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.4282,
+    "investment_horizon_months": 3,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.42,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.252,
+      "intl_equity": 0.1976,
+      "emerging_markets": 0.1757,
+      "bonds": 0.0224,
+      "real_estate": 0.0428,
+      "commodities": 0.0514,
+      "cash": 0.0063,
+      "alternatives": 0.2519
+    },
+    "demographic": {
+      "age": 26,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1193,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.5102,
+    "investment_horizon_months": 47,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives",
+      "crypto"
+    ],
+    "constraints": {
+      "max_single_sector": 0.37,
+      "excluded_sectors": [
+        "dividends",
+        "clean_energy"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.233,
+      "intl_equity": 0.1234,
+      "emerging_markets": 0.1317,
+      "bonds": 0.0551,
+      "real_estate": 0.0397,
+      "commodities": 0.1031,
+      "cash": 0.0396,
+      "alternatives": 0.2745
+    },
+    "demographic": {
+      "age": 35,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1194,
+    "archetype": "esg_thematic",
+    "risk_tolerance": 0.6905,
+    "investment_horizon_months": 25,
+    "sector_preferences": [
+      "clean_energy",
+      "healthcare",
+      "technology"
+    ],
+    "constraints": {
+      "max_single_sector": 0.45,
+      "excluded_sectors": [
+        "US_equity"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.061,
+      "intl_equity": 0.1969,
+      "emerging_markets": 0.0991,
+      "bonds": 0.0432,
+      "real_estate": 0.1205,
+      "commodities": 0.025,
+      "cash": 0.0674,
+      "alternatives": 0.387
+    },
+    "demographic": {
+      "age": 39,
+      "income_bracket": "medium_to_high"
+    }
+  },
+  {
+    "user_id": 1195,
+    "archetype": "aggressive_trader",
+    "risk_tolerance": 0.7582,
+    "investment_horizon_months": 6,
+    "sector_preferences": [
+      "technology",
+      "crypto",
+      "growth",
+      "emerging_markets"
+    ],
+    "constraints": {
+      "max_single_sector": 0.26,
+      "excluded_sectors": [
+        "dividends",
+        "REITs"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.2335,
+      "intl_equity": 0.1531,
+      "emerging_markets": 0.1449,
+      "bonds": 0.0062,
+      "real_estate": 0.0023,
+      "commodities": 0.0198,
+      "cash": 0.2317,
+      "alternatives": 0.2085
+    },
+    "demographic": {
+      "age": 26,
+      "income_bracket": "high"
+    }
+  },
+  {
+    "user_id": 1196,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.1215,
+    "investment_horizon_months": 25,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.4,
+      "excluded_sectors": [
+        "growth"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.2042,
+      "intl_equity": 0.0197,
+      "emerging_markets": 0.0316,
+      "bonds": 0.2815,
+      "real_estate": 0.2631,
+      "commodities": 0.0081,
+      "cash": 0.0232,
+      "alternatives": 0.1685
+    },
+    "demographic": {
+      "age": 44,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1197,
+    "archetype": "conservative_retiree",
+    "risk_tolerance": 0.1158,
+    "investment_horizon_months": 21,
+    "sector_preferences": [
+      "bonds",
+      "utilities",
+      "healthcare",
+      "cash"
+    ],
+    "constraints": {
+      "max_single_sector": 0.37,
+      "excluded_sectors": [
+        "emerging_markets",
+        "clean_energy"
+      ]
+    },
+    "current_holdings": {
+      "US_equity": 0.0336,
+      "intl_equity": 0.1178,
+      "emerging_markets": 0.0004,
+      "bonds": 0.3802,
+      "real_estate": 0.0678,
+      "commodities": 0.0012,
+      "cash": 0.3475,
+      "alternatives": 0.0515
+    },
+    "demographic": {
+      "age": 73,
+      "income_bracket": "low_to_medium"
+    }
+  },
+  {
+    "user_id": 1198,
+    "archetype": "income_focused",
+    "risk_tolerance": 0.4249,
+    "investment_horizon_months": 20,
+    "sector_preferences": [
+      "dividends",
+      "REITs",
+      "bonds",
+      "utilities"
+    ],
+    "constraints": {
+      "max_single_sector": 0.37,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.1143,
+      "intl_equity": 0.0234,
+      "emerging_markets": 0.002,
+      "bonds": 0.4493,
+      "real_estate": 0.2973,
+      "commodities": 0.0016,
+      "cash": 0.0729,
+      "alternatives": 0.0392
+    },
+    "demographic": {
+      "age": 51,
+      "income_bracket": "medium"
+    }
+  },
+  {
+    "user_id": 1199,
+    "archetype": "balanced_longterm",
+    "risk_tolerance": 0.5909,
+    "investment_horizon_months": 44,
+    "sector_preferences": [
+      "US_equity",
+      "intl_equity",
+      "bonds",
+      "real_estate",
+      "commodities",
+      "alternatives"
+    ],
+    "constraints": {
+      "max_single_sector": 0.4,
+      "excluded_sectors": []
+    },
+    "current_holdings": {
+      "US_equity": 0.1901,
+      "intl_equity": 0.1229,
+      "emerging_markets": 0.0194,
+      "bonds": 0.2007,
+      "real_estate": 0.1326,
+      "commodities": 0.0421,
+      "cash": 0.0181,
+      "alternatives": 0.2742
+    },
+    "demographic": {
+      "age": 51,
+      "income_bracket": "medium_to_high"
+    }
+  }
+]

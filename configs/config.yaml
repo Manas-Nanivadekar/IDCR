@@ -1,0 +1,22 @@
+# IDCR Configuration
+defaults:
+  - data: synthetic
+  - _self_
+
+seed: 42
+device: cpu
+
+# Output directory
+output_dir: outputs/${now:%Y-%m-%d_%H-%M-%S}
+
+# Global parameters
+n_asset_classes: 8
+asset_classes:
+  - US_equity
+  - intl_equity
+  - emerging_markets
+  - bonds
+  - real_estate
+  - commodities
+  - cash
+  - alternatives

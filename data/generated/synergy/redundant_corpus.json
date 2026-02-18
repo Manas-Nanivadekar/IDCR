@@ -1,0 +1,402 @@
+[
+  {
+    "doc_id": 0,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity",
+      "intl_equity"
+    ],
+    "informativeness": 0.9696664985396299,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 1,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "emerging_markets",
+      "bonds"
+    ],
+    "informativeness": 1.499802736050693,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 2,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "real_estate",
+      "commodities"
+    ],
+    "informativeness": 2.0493825410516404,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 3,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "cash",
+      "alternatives"
+    ],
+    "informativeness": 3.115194394252818,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 4,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity",
+      "intl_equity"
+    ],
+    "informativeness": 1.888029703818299,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 5,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "emerging_markets",
+      "bonds"
+    ],
+    "informativeness": 1.745846368947918,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 6,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "real_estate",
+      "commodities"
+    ],
+    "informativeness": 1.7585718465619138,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 7,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "cash",
+      "alternatives"
+    ],
+    "informativeness": 2.938169674055334,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 8,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity",
+      "intl_equity"
+    ],
+    "informativeness": 1.1896103051345204,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 9,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "emerging_markets",
+      "bonds"
+    ],
+    "informativeness": 0.5744738458106179,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 10,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "real_estate",
+      "commodities"
+    ],
+    "informativeness": 2.662737487308777,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 11,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "cash",
+      "alternatives"
+    ],
+    "informativeness": 2.9446603749588034,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 12,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity",
+      "intl_equity"
+    ],
+    "informativeness": 1.4907089880775655,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 13,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "emerging_markets",
+      "bonds"
+    ],
+    "informativeness": 2.3728171142438277,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 14,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "real_estate",
+      "commodities"
+    ],
+    "informativeness": 0.775966400516298,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 15,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "cash",
+      "alternatives"
+    ],
+    "informativeness": 0.1452125106253754,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 16,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity",
+      "intl_equity"
+    ],
+    "informativeness": 2.5861801342865713,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 17,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "emerging_markets",
+      "bonds"
+    ],
+    "informativeness": 3.421875927270913,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 18,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "real_estate",
+      "commodities"
+    ],
+    "informativeness": 2.6756166707619795,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 19,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "cash",
+      "alternatives"
+    ],
+    "informativeness": 0.21574988801949507,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 20,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity",
+      "intl_equity"
+    ],
+    "informativeness": 5.352874420681357,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 21,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "emerging_markets",
+      "bonds"
+    ],
+    "informativeness": 1.2655586635523999,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 22,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "real_estate",
+      "commodities"
+    ],
+    "informativeness": 1.9699844636712276,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 23,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "cash",
+      "alternatives"
+    ],
+    "informativeness": 0.8130573066264721,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 24,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity",
+      "intl_equity"
+    ],
+    "informativeness": 3.0655730960090826,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 25,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "emerging_markets",
+      "bonds"
+    ],
+    "informativeness": 0.7054754494820008,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 26,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "real_estate",
+      "commodities"
+    ],
+    "informativeness": 2.4753877183338457,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 27,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "cash",
+      "alternatives"
+    ],
+    "informativeness": 1.9922288428231276,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 28,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity",
+      "intl_equity"
+    ],
+    "informativeness": 3.173797307610176,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 29,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "emerging_markets",
+      "bonds"
+    ],
+    "informativeness": 0.9725984679243482,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 30,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "real_estate",
+      "commodities"
+    ],
+    "informativeness": 1.4579541157863354,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 31,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "cash",
+      "alternatives"
+    ],
+    "informativeness": 3.4279782780910146,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 32,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity",
+      "intl_equity"
+    ],
+    "informativeness": 1.5039323762017296,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 33,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "emerging_markets",
+      "bonds"
+    ],
+    "informativeness": 2.186858893503585,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 34,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "real_estate",
+      "commodities"
+    ],
+    "informativeness": 1.8493876733188268,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 35,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "cash",
+      "alternatives"
+    ],
+    "informativeness": 0.724160572248636,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 36,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "US_equity",
+      "intl_equity"
+    ],
+    "informativeness": 1.0352503794113541,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 37,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "emerging_markets",
+      "bonds"
+    ],
+    "informativeness": 2.7429483527061214,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 38,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "real_estate",
+      "commodities"
+    ],
+    "informativeness": 0.9365464430140243,
+    "corpus_type": "redundant"
+  },
+  {
+    "doc_id": 39,
+    "doc_type": "sector_report",
+    "relevant_sectors": [
+      "cash",
+      "alternatives"
+    ],
+    "informativeness": 1.0058683609098165,
+    "corpus_type": "redundant"
+  }
+]
